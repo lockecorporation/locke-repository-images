@@ -944,7 +944,7 @@
  },
  {
   "code": "LC-WT-CER-014",
-  "display_name": "LC-WT-CER-014 Walker Zanger 6Th Avenue Field Tile 2 X 6 - Marlin Blue - Gloss _ Ceramic",
+  "display_name": "LC-WT-CER-014 Walker Zanger 6Th Avenue Field Tile 2 x 6 - Marlin Blue, Gloss",
   "type_code": "CER",
   "type": "Ceramic",
   "tier": "Luxury",
@@ -967,7 +967,7 @@
  },
  {
   "code": "LC-WT-CER-015",
-  "display_name": "LC-WT-CER-015 Walker Zanger Pietta Donovan Field Tile Brick - Lilly Pilly - Gloss _ Ceramic",
+  "display_name": "LC-WT-CER-015 Walker Zanger Pietta Donovan Field Tile Brick - Lilly Pilly, Gloss",
   "type_code": "CER",
   "type": "Ceramic",
   "tier": "Luxury",
@@ -990,7 +990,7 @@
  },
  {
   "code": "LC-WT-CER-016",
-  "display_name": "LC-WT-CER-016 Walker Zanger Pietta Donovan Field Tile Maroubra - Opal - Gloss _ Ceramic",
+  "display_name": "LC-WT-CER-016 Walker Zanger Pietta Donovan Field Tile Maroubra - Opal, Gloss",
   "type_code": "CER",
   "type": "Ceramic",
   "tier": "Luxury",
@@ -1013,7 +1013,7 @@
  },
  {
   "code": "LC-WT-CER-017",
-  "display_name": "LC-WT-CER-017 Walker Zanger Robert A.M. Stern Deco Field Tile Otto - Deep Sea - Gloss _ Ceramic",
+  "display_name": "LC-WT-CER-017 Walker Zanger Robert A.M. Stern Deco Field Tile Otto - Deep Sea, Gloss",
   "type_code": "CER",
   "type": "Ceramic",
   "tier": "Luxury",
@@ -1036,13 +1036,13 @@
  },
  {
   "code": "LC-WT-CER-018",
-  "display_name": "LC-WT-CER-018 Mercury Mosaics Undertow Blend Large Moroccan Fish Scale Wave Pattern - 0 sq ft available",
+  "display_name": "LC-WT-CER-018 Mercury Mosaics Undertow Blend Large Moroccan Fish Scale Wave Pattern",
   "type_code": "CER",
   "type": "Ceramic",
   "tier": "Mid",
   "brand": "Mercury Mosaics",
   "retailer": "Mercury Mosaics",
-  "product": "Undertow Blend Large Moroccan Fish Scale Wave Pattern - 0 sq ft available",
+  "product": "Undertow Blend Large Moroccan Fish Scale Wave Pattern",
   "color": "",
   "size": "",
   "material": "",
@@ -1055,7 +1055,8 @@
   "source": "Shopify product feed",
   "swatch_method": "inner frac=0.5",
   "repo_file": "photos/lc-wt-cer-018.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Inventory listing; check availability with Mercury Mosaics"
  },
  {
   "code": "LC-WT-CER-019",
@@ -1611,7 +1612,7 @@
  },
  {
   "code": "LC-WT-GLS-014",
-  "display_name": "LC-WT-GLS-014 Walker Zanger Emersyn Lane Mosaic Blended Penny Round - Rockwell Twill - Matte _ Glass",
+  "display_name": "LC-WT-GLS-014 Walker Zanger Emersyn Lane Mosaic Blended Penny Round - Rockwell Twill, Matte",
   "type_code": "GLS",
   "type": "Glass",
   "tier": "Luxury",
@@ -1634,7 +1635,7 @@
  },
  {
   "code": "LC-WT-GLS-015",
-  "display_name": "LC-WT-GLS-015 Walker Zanger Pop Culture Mosaic Disc - White - Multi Textured _ Glass",
+  "display_name": "LC-WT-GLS-015 Walker Zanger Pop Culture Mosaic Disc - White, Multi Textured",
   "type_code": "GLS",
   "type": "Glass",
   "tier": "Luxury",
@@ -1657,7 +1658,7 @@
  },
  {
   "code": "LC-WT-GLS-016",
-  "display_name": "LC-WT-GLS-016 Walker Zanger Shimmer Mosaic Sea Hex - Ocean Foam - Matte _ Glass",
+  "display_name": "LC-WT-GLS-016 Walker Zanger Shimmer Mosaic Sea Hex - Ocean Foam, Matte",
   "type_code": "GLS",
   "type": "Glass",
   "tier": "Luxury",
@@ -2255,7 +2256,7 @@
  },
  {
   "code": "LC-WT-MTL-012",
-  "display_name": "LC-WT-MTL-012 TileBar Stainless Steel Metal 3_4",
+  "display_name": "LC-WT-MTL-012 TileBar Stainless Steel Metal 3_4 in Penny Round Mosaic",
   "type_code": "MTL",
   "type": "Metal & Metallic",
   "tier": "Mid",
@@ -2485,7 +2486,7 @@
  },
  {
   "code": "LC-WT-POR-008",
-  "display_name": "LC-WT-POR-008 Walker Zanger Architek Field - Black - Gloss _ Porcelain",
+  "display_name": "LC-WT-POR-008 Walker Zanger Architek Field - Black, Gloss",
   "type_code": "POR",
   "type": "Porcelain",
   "tier": "Luxury",
@@ -2508,7 +2509,7 @@
  },
  {
   "code": "LC-WT-POR-009",
-  "display_name": "LC-WT-POR-009 Walker Zanger Bera & Beren Field Tile 12 X 24 - Greige - Natural _ Porcelain",
+  "display_name": "LC-WT-POR-009 Walker Zanger Bera & Beren Field Tile 12 x 24 - Greige, Natural",
   "type_code": "POR",
   "type": "Porcelain",
   "tier": "Luxury",
@@ -2531,7 +2532,7 @@
  },
  {
   "code": "LC-WT-POR-010",
-  "display_name": "LC-WT-POR-010 Walker Zanger Level Field Tile 12 X 24 - Level White - Textured _ Porcelain",
+  "display_name": "LC-WT-POR-010 Walker Zanger Level Field Tile 12 x 24 - Level White, Textured",
   "type_code": "POR",
   "type": "Porcelain",
   "tier": "Luxury",
