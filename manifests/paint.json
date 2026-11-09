@@ -1,7 +1,7 @@
 [
  {
   "code": "LC-PT-WHT-001",
-  "display_name": "LC-PT-WHT-001 Benjamin Moore Chantilly Lace OC-65 - #F4F6F1 - from $56.09/gal",
+  "display_name": "LC-PT-WHT-001 Benjamin Moore Chantilly Lace OC-65 - #F4F6F1 - from $56.09 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Benjamin Moore",
@@ -22,7 +22,7 @@
  },
  {
   "code": "LC-PT-WHT-002",
-  "display_name": "LC-PT-WHT-002 Benjamin Moore Simply White OC-117 - #F6F6ED - from $56.09/gal",
+  "display_name": "LC-PT-WHT-002 Benjamin Moore Simply White OC-117 - #F6F6ED - from $56.09 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Benjamin Moore",
@@ -43,7 +43,7 @@
  },
  {
   "code": "LC-PT-WHT-003",
-  "display_name": "LC-PT-WHT-003 Benjamin Moore White Dove OC-17 - #EFEEE5 - from $56.09/gal",
+  "display_name": "LC-PT-WHT-003 Benjamin Moore White Dove OC-17 - #EFEEE5 - from $56.09 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Benjamin Moore",
@@ -64,7 +64,7 @@
  },
  {
   "code": "LC-PT-WHT-004",
-  "display_name": "LC-PT-WHT-004 Sherwin-Williams Pure White SW 7005 - #EDECE6 - from $65/gal",
+  "display_name": "LC-PT-WHT-004 Sherwin-Williams Pure White SW 7005 - #EDECE6 - from $65 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Sherwin-Williams",
@@ -85,7 +85,7 @@
  },
  {
   "code": "LC-PT-WHT-005",
-  "display_name": "LC-PT-WHT-005 Sherwin-Williams Extra White SW 7006 - #EEEFEA - from $65/gal",
+  "display_name": "LC-PT-WHT-005 Sherwin-Williams Extra White SW 7006 - #EEEFEA - from $65 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Sherwin-Williams",
@@ -106,7 +106,7 @@
  },
  {
   "code": "LC-PT-WHT-006",
-  "display_name": "LC-PT-WHT-006 Sherwin-Williams High Reflective White SW 7757 - #F7F7F1 - from $65/gal",
+  "display_name": "LC-PT-WHT-006 Sherwin-Williams High Reflective White SW 7757 - #F7F7F1 - from $65 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Sherwin-Williams",
@@ -127,7 +127,7 @@
  },
  {
   "code": "LC-PT-WHT-007",
-  "display_name": "LC-PT-WHT-007 Farrow & Ball All White No. 2005 - #F4F6F1 - from $160/gal",
+  "display_name": "LC-PT-WHT-007 Farrow & Ball All White No. 2005 - #F4F6F1 - from $160 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Farrow & Ball",
@@ -148,7 +148,7 @@
  },
  {
   "code": "LC-PT-WHT-008",
-  "display_name": "LC-PT-WHT-008 Farrow & Ball Wevet No. 273 - #F5F5ED - from $160/gal",
+  "display_name": "LC-PT-WHT-008 Farrow & Ball Wevet No. 273 - #F5F5ED - from $160 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Farrow & Ball",
@@ -169,7 +169,7 @@
  },
  {
   "code": "LC-PT-WHT-009",
-  "display_name": "LC-PT-WHT-009 Farrow & Ball Strong White No. 2001 - #F4F2E6 - from $160/gal",
+  "display_name": "LC-PT-WHT-009 Farrow & Ball Strong White No. 2001 - #F4F2E6 - from $160 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Farrow & Ball",
@@ -190,7 +190,7 @@
  },
  {
   "code": "LC-PT-WHT-010",
-  "display_name": "LC-PT-WHT-010 Dunn-Edwards Whisper DEW 340 - #FDFAF1 - from $61/gal",
+  "display_name": "LC-PT-WHT-010 Dunn-Edwards Whisper DEW 340 - #FDFAF1 - from $61 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Dunn-Edwards",
@@ -211,7 +211,7 @@
  },
  {
   "code": "LC-PT-WHT-011",
-  "display_name": "LC-PT-WHT-011 Dunn-Edwards White Picket Fence DET 648 - #F0EFEB - from $61/gal",
+  "display_name": "LC-PT-WHT-011 Dunn-Edwards White Picket Fence DET 648 - #F0EFEB - from $61 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Dunn-Edwards",
@@ -232,7 +232,7 @@
  },
  {
   "code": "LC-PT-WHT-012",
-  "display_name": "LC-PT-WHT-012 Dunn-Edwards Classic White DEHW 08 - #ECEEEC - from $61/gal",
+  "display_name": "LC-PT-WHT-012 Dunn-Edwards Classic White DEHW 08 - #ECEEEC - from $61 per gal",
   "family_code": "WHT",
   "family": "Whites",
   "brand": "Dunn-Edwards",
@@ -253,7 +253,7 @@
  },
  {
   "code": "LC-PT-OFW-001",
-  "display_name": "LC-PT-OFW-001 Benjamin Moore Swiss Coffee OC-45 - #EEECE1 - from $56.09/gal",
+  "display_name": "LC-PT-OFW-001 Benjamin Moore Swiss Coffee OC-45 - #EEECE1 - from $56.09 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Benjamin Moore",
@@ -274,7 +274,7 @@
  },
  {
   "code": "LC-PT-OFW-002",
-  "display_name": "LC-PT-OFW-002 Benjamin Moore Linen White 912 - #F2EBDA - from $56.09/gal",
+  "display_name": "LC-PT-OFW-002 Benjamin Moore Linen White 912 - #F2EBDA - from $56.09 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Benjamin Moore",
@@ -295,7 +295,7 @@
  },
  {
   "code": "LC-PT-OFW-003",
-  "display_name": "LC-PT-OFW-003 Benjamin Moore Navajo White OC-95 - #EEE7D5 - from $56.09/gal",
+  "display_name": "LC-PT-OFW-003 Benjamin Moore Navajo White OC-95 - #EEE7D5 - from $56.09 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Benjamin Moore",
@@ -316,7 +316,7 @@
  },
  {
   "code": "LC-PT-OFW-004",
-  "display_name": "LC-PT-OFW-004 Sherwin-Williams Alabaster SW 7008 - #EDEAE0 - from $65/gal",
+  "display_name": "LC-PT-OFW-004 Sherwin-Williams Alabaster SW 7008 - #EDEAE0 - from $65 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Sherwin-Williams",
@@ -337,7 +337,7 @@
  },
  {
   "code": "LC-PT-OFW-005",
-  "display_name": "LC-PT-OFW-005 Sherwin-Williams Greek Villa SW 7551 - #F0ECE2 - from $65/gal",
+  "display_name": "LC-PT-OFW-005 Sherwin-Williams Greek Villa SW 7551 - #F0ECE2 - from $65 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Sherwin-Williams",
@@ -358,7 +358,7 @@
  },
  {
   "code": "LC-PT-OFW-006",
-  "display_name": "LC-PT-OFW-006 Sherwin-Williams Creamy SW 7012 - #EFE8DB - from $65/gal",
+  "display_name": "LC-PT-OFW-006 Sherwin-Williams Creamy SW 7012 - #EFE8DB - from $65 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Sherwin-Williams",
@@ -379,7 +379,7 @@
  },
  {
   "code": "LC-PT-OFW-007",
-  "display_name": "LC-PT-OFW-007 Farrow & Ball Pointing No. 2003 - #FFFCDF - from $160/gal",
+  "display_name": "LC-PT-OFW-007 Farrow & Ball Pointing No. 2003 - #FFFCDF - from $160 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Farrow & Ball",
@@ -400,7 +400,7 @@
  },
  {
   "code": "LC-PT-OFW-008",
-  "display_name": "LC-PT-OFW-008 Farrow & Ball White Tie No. 2002 - #EFE9D9 - from $160/gal",
+  "display_name": "LC-PT-OFW-008 Farrow & Ball White Tie No. 2002 - #EFE9D9 - from $160 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Farrow & Ball",
@@ -421,7 +421,7 @@
  },
  {
   "code": "LC-PT-OFW-009",
-  "display_name": "LC-PT-OFW-009 Farrow & Ball Shaded White No. 201 - #E0D8C3 - from $160/gal",
+  "display_name": "LC-PT-OFW-009 Farrow & Ball Shaded White No. 201 - #E0D8C3 - from $160 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Farrow & Ball",
@@ -442,7 +442,7 @@
  },
  {
   "code": "LC-PT-OFW-010",
-  "display_name": "LC-PT-OFW-010 Dunn-Edwards Swiss Coffee DEW 341 - #F8F5E9 - from $61/gal",
+  "display_name": "LC-PT-OFW-010 Dunn-Edwards Swiss Coffee DEW 341 - #F8F5E9 - from $61 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Dunn-Edwards",
@@ -463,7 +463,7 @@
  },
  {
   "code": "LC-PT-OFW-011",
-  "display_name": "LC-PT-OFW-011 Dunn-Edwards French White DEW 311 - #F1E7DB - from $61/gal",
+  "display_name": "LC-PT-OFW-011 Dunn-Edwards French White DEW 311 - #F1E7DB - from $61 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Dunn-Edwards",
@@ -484,7 +484,7 @@
  },
  {
   "code": "LC-PT-OFW-012",
-  "display_name": "LC-PT-OFW-012 Dunn-Edwards Crème Fraîche DET 654 - #EBDAB5 - from $61/gal",
+  "display_name": "LC-PT-OFW-012 Dunn-Edwards Crème Fraîche DET 654 - #EBDAB5 - from $61 per gal",
   "family_code": "OFW",
   "family": "Off-Whites & Creams",
   "brand": "Dunn-Edwards",
@@ -505,7 +505,7 @@
  },
  {
   "code": "LC-PT-GRG-001",
-  "display_name": "LC-PT-GRG-001 Benjamin Moore Pale Oak OC-20 - #DDD9CE - from $56.09/gal",
+  "display_name": "LC-PT-GRG-001 Benjamin Moore Pale Oak OC-20 - #DDD9CE - from $56.09 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Benjamin Moore",
@@ -526,7 +526,7 @@
  },
  {
   "code": "LC-PT-GRG-002",
-  "display_name": "LC-PT-GRG-002 Benjamin Moore Revere Pewter HC-172 - #CBC6B8 - from $56.09/gal",
+  "display_name": "LC-PT-GRG-002 Benjamin Moore Revere Pewter HC-172 - #CBC6B8 - from $56.09 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Benjamin Moore",
@@ -547,7 +547,7 @@
  },
  {
   "code": "LC-PT-GRG-003",
-  "display_name": "LC-PT-GRG-003 Benjamin Moore Edgecomb Gray HC-173 - #D9D3C4 - from $56.09/gal",
+  "display_name": "LC-PT-GRG-003 Benjamin Moore Edgecomb Gray HC-173 - #D9D3C4 - from $56.09 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Benjamin Moore",
@@ -568,7 +568,7 @@
  },
  {
   "code": "LC-PT-GRG-004",
-  "display_name": "LC-PT-GRG-004 Sherwin-Williams Agreeable Gray SW 7029 - #D1CBC1 - from $65/gal",
+  "display_name": "LC-PT-GRG-004 Sherwin-Williams Agreeable Gray SW 7029 - #D1CBC1 - from $65 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Sherwin-Williams",
@@ -589,7 +589,7 @@
  },
  {
   "code": "LC-PT-GRG-005",
-  "display_name": "LC-PT-GRG-005 Sherwin-Williams Accessible Beige SW 7036 - #D1C7B8 - from $65/gal",
+  "display_name": "LC-PT-GRG-005 Sherwin-Williams Accessible Beige SW 7036 - #D1C7B8 - from $65 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Sherwin-Williams",
@@ -610,7 +610,7 @@
  },
  {
   "code": "LC-PT-GRG-006",
-  "display_name": "LC-PT-GRG-006 Sherwin-Williams Balanced Beige SW 7037 - #C0B2A2 - from $65/gal",
+  "display_name": "LC-PT-GRG-006 Sherwin-Williams Balanced Beige SW 7037 - #C0B2A2 - from $65 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Sherwin-Williams",
@@ -631,7 +631,7 @@
  },
  {
   "code": "LC-PT-GRG-007",
-  "display_name": "LC-PT-GRG-007 Farrow & Ball Jitney No. 293 - #B7A798 - from $160/gal",
+  "display_name": "LC-PT-GRG-007 Farrow & Ball Jitney No. 293 - #B7A798 - from $160 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Farrow & Ball",
@@ -652,7 +652,7 @@
  },
  {
   "code": "LC-PT-GRG-008",
-  "display_name": "LC-PT-GRG-008 Farrow & Ball Oxford Stone No. 264 - #D0C1AE - from $160/gal",
+  "display_name": "LC-PT-GRG-008 Farrow & Ball Oxford Stone No. 264 - #D0C1AE - from $160 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Farrow & Ball",
@@ -673,7 +673,7 @@
  },
  {
   "code": "LC-PT-GRG-009",
-  "display_name": "LC-PT-GRG-009 Farrow & Ball Cornforth White No. 228 - #CDCAC3 - from $160/gal",
+  "display_name": "LC-PT-GRG-009 Farrow & Ball Cornforth White No. 228 - #CDCAC3 - from $160 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Farrow & Ball",
@@ -694,7 +694,7 @@
  },
  {
   "code": "LC-PT-GRG-010",
-  "display_name": "LC-PT-GRG-010 Dunn-Edwards Bone DEC 765 - #EADFCE - from $61/gal",
+  "display_name": "LC-PT-GRG-010 Dunn-Edwards Bone DEC 765 - #EADFCE - from $61 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Dunn-Edwards",
@@ -715,7 +715,7 @@
  },
  {
   "code": "LC-PT-GRG-011",
-  "display_name": "LC-PT-GRG-011 Dunn-Edwards Desert Rock DE 6066 - #D5C6BD - from $61/gal",
+  "display_name": "LC-PT-GRG-011 Dunn-Edwards Desert Rock DE 6066 - #D5C6BD - from $61 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Dunn-Edwards",
@@ -736,7 +736,7 @@
  },
  {
   "code": "LC-PT-GRG-012",
-  "display_name": "LC-PT-GRG-012 Dunn-Edwards Stone Mason DET 615 - #7A7B75 - from $61/gal",
+  "display_name": "LC-PT-GRG-012 Dunn-Edwards Stone Mason DET 615 - #7A7B75 - from $61 per gal",
   "family_code": "GRG",
   "family": "Greiges & Beiges",
   "brand": "Dunn-Edwards",
@@ -757,7 +757,7 @@
  },
  {
   "code": "LC-PT-GRY-001",
-  "display_name": "LC-PT-GRY-001 Benjamin Moore Classic Gray OC-23 - #E3E0D7 - from $56.09/gal",
+  "display_name": "LC-PT-GRY-001 Benjamin Moore Classic Gray OC-23 - #E3E0D7 - from $56.09 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Benjamin Moore",
@@ -778,7 +778,7 @@
  },
  {
   "code": "LC-PT-GRY-002",
-  "display_name": "LC-PT-GRY-002 Benjamin Moore Stonington Gray HC-170 - #CACBC5 - from $56.09/gal",
+  "display_name": "LC-PT-GRY-002 Benjamin Moore Stonington Gray HC-170 - #CACBC5 - from $56.09 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Benjamin Moore",
@@ -799,7 +799,7 @@
  },
  {
   "code": "LC-PT-GRY-003",
-  "display_name": "LC-PT-GRY-003 Benjamin Moore Chelsea Gray HC-168 - #86847C - from $56.09/gal",
+  "display_name": "LC-PT-GRY-003 Benjamin Moore Chelsea Gray HC-168 - #86847C - from $56.09 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Benjamin Moore",
@@ -820,7 +820,7 @@
  },
  {
   "code": "LC-PT-GRY-004",
-  "display_name": "LC-PT-GRY-004 Sherwin-Williams Repose Gray SW 7015 - #CCC9C0 - from $65/gal",
+  "display_name": "LC-PT-GRY-004 Sherwin-Williams Repose Gray SW 7015 - #CCC9C0 - from $65 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Sherwin-Williams",
@@ -841,7 +841,7 @@
  },
  {
   "code": "LC-PT-GRY-005",
-  "display_name": "LC-PT-GRY-005 Sherwin-Williams Mindful Gray SW 7016 - #BCB7AD - from $65/gal",
+  "display_name": "LC-PT-GRY-005 Sherwin-Williams Mindful Gray SW 7016 - #BCB7AD - from $65 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Sherwin-Williams",
@@ -862,7 +862,7 @@
  },
  {
   "code": "LC-PT-GRY-006",
-  "display_name": "LC-PT-GRY-006 Sherwin-Williams Passive SW 7064 - #CBCCC9 - from $65/gal",
+  "display_name": "LC-PT-GRY-006 Sherwin-Williams Passive SW 7064 - #CBCCC9 - from $65 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Sherwin-Williams",
@@ -883,7 +883,7 @@
  },
  {
   "code": "LC-PT-GRY-007",
-  "display_name": "LC-PT-GRY-007 Farrow & Ball Ammonite No. 274 - #E2E0D1 - from $160/gal",
+  "display_name": "LC-PT-GRY-007 Farrow & Ball Ammonite No. 274 - #E2E0D1 - from $160 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Farrow & Ball",
@@ -904,7 +904,7 @@
  },
  {
   "code": "LC-PT-GRY-008",
-  "display_name": "LC-PT-GRY-008 Farrow & Ball Purbeck Stone No. 275 - #C3C3B9 - from $160/gal",
+  "display_name": "LC-PT-GRY-008 Farrow & Ball Purbeck Stone No. 275 - #C3C3B9 - from $160 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Farrow & Ball",
@@ -925,7 +925,7 @@
  },
  {
   "code": "LC-PT-GRY-009",
-  "display_name": "LC-PT-GRY-009 Farrow & Ball Lamp Room Gray No. 88 - #B1B0AB - from $160/gal",
+  "display_name": "LC-PT-GRY-009 Farrow & Ball Lamp Room Gray No. 88 - #B1B0AB - from $160 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Farrow & Ball",
@@ -946,7 +946,7 @@
  },
  {
   "code": "LC-PT-GRY-010",
-  "display_name": "LC-PT-GRY-010 Dunn-Edwards Vapor DE 6358 - #EAEAEA - from $61/gal",
+  "display_name": "LC-PT-GRY-010 Dunn-Edwards Vapor DE 6358 - #EAEAEA - from $61 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Dunn-Edwards",
@@ -967,7 +967,7 @@
  },
  {
   "code": "LC-PT-GRY-011",
-  "display_name": "LC-PT-GRY-011 Dunn-Edwards Church Mouse DET 603 - #B3B5AF - from $61/gal",
+  "display_name": "LC-PT-GRY-011 Dunn-Edwards Church Mouse DET 603 - #B3B5AF - from $61 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Dunn-Edwards",
@@ -988,7 +988,7 @@
  },
  {
   "code": "LC-PT-GRY-012",
-  "display_name": "LC-PT-GRY-012 Dunn-Edwards Celluloid DET 619 - #515153 - from $61/gal",
+  "display_name": "LC-PT-GRY-012 Dunn-Edwards Celluloid DET 619 - #515153 - from $61 per gal",
   "family_code": "GRY",
   "family": "Grays",
   "brand": "Dunn-Edwards",
@@ -1009,7 +1009,7 @@
  },
  {
   "code": "LC-PT-CHR-001",
-  "display_name": "LC-PT-CHR-001 Benjamin Moore Kendall Charcoal HC-166 - #676662 - from $56.09/gal",
+  "display_name": "LC-PT-CHR-001 Benjamin Moore Kendall Charcoal HC-166 - #676662 - from $56.09 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Benjamin Moore",
@@ -1030,7 +1030,7 @@
  },
  {
   "code": "LC-PT-CHR-002",
-  "display_name": "LC-PT-CHR-002 Benjamin Moore Wrought Iron 2124-10 - #494A4B - from $56.09/gal",
+  "display_name": "LC-PT-CHR-002 Benjamin Moore Wrought Iron 2124-10 - #494A4B - from $56.09 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Benjamin Moore",
@@ -1051,7 +1051,7 @@
  },
  {
   "code": "LC-PT-CHR-003",
-  "display_name": "LC-PT-CHR-003 Benjamin Moore Onyx 2133-10 - #353434 - from $56.09/gal",
+  "display_name": "LC-PT-CHR-003 Benjamin Moore Onyx 2133-10 - #353434 - from $56.09 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Benjamin Moore",
@@ -1072,7 +1072,7 @@
  },
  {
   "code": "LC-PT-CHR-004",
-  "display_name": "LC-PT-CHR-004 Sherwin-Williams Iron Ore SW 7069 - #434341 - from $65/gal",
+  "display_name": "LC-PT-CHR-004 Sherwin-Williams Iron Ore SW 7069 - #434341 - from $65 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Sherwin-Williams",
@@ -1093,7 +1093,7 @@
  },
  {
   "code": "LC-PT-CHR-005",
-  "display_name": "LC-PT-CHR-005 Sherwin-Williams Tricorn Black SW 6258 - #2F2F30 - from $65/gal",
+  "display_name": "LC-PT-CHR-005 Sherwin-Williams Tricorn Black SW 6258 - #2F2F30 - from $65 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Sherwin-Williams",
@@ -1114,7 +1114,7 @@
  },
  {
   "code": "LC-PT-CHR-006",
-  "display_name": "LC-PT-CHR-006 Sherwin-Williams Peppercorn SW 7674 - #585858 - from $65/gal",
+  "display_name": "LC-PT-CHR-006 Sherwin-Williams Peppercorn SW 7674 - #585858 - from $65 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Sherwin-Williams",
@@ -1135,7 +1135,7 @@
  },
  {
   "code": "LC-PT-CHR-007",
-  "display_name": "LC-PT-CHR-007 Farrow & Ball Railings No. 31 - #4E4E4E - from $160/gal",
+  "display_name": "LC-PT-CHR-007 Farrow & Ball Railings No. 31 - #4E4E4E - from $160 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Farrow & Ball",
@@ -1156,7 +1156,7 @@
  },
  {
   "code": "LC-PT-CHR-008",
-  "display_name": "LC-PT-CHR-008 Farrow & Ball Off-Black No. 57 - #565656 - from $160/gal",
+  "display_name": "LC-PT-CHR-008 Farrow & Ball Off-Black No. 57 - #565656 - from $160 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Farrow & Ball",
@@ -1177,7 +1177,7 @@
  },
  {
   "code": "LC-PT-CHR-009",
-  "display_name": "LC-PT-CHR-009 Farrow & Ball Pitch Black No. 256 - #3D3B3C - from $160/gal",
+  "display_name": "LC-PT-CHR-009 Farrow & Ball Pitch Black No. 256 - #3D3B3C - from $160 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Farrow & Ball",
@@ -1198,7 +1198,7 @@
  },
  {
   "code": "LC-PT-CHR-010",
-  "display_name": "LC-PT-CHR-010 Dunn-Edwards Espresso Macchiato DET 680 - #4F4744 - from $61/gal",
+  "display_name": "LC-PT-CHR-010 Dunn-Edwards Espresso Macchiato DET 680 - #4F4744 - from $61 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Dunn-Edwards",
@@ -1219,7 +1219,7 @@
  },
  {
   "code": "LC-PT-CHR-011",
-  "display_name": "LC-PT-CHR-011 Dunn-Edwards Dark Engine DE 6350 - #3E3F41 - from $61/gal",
+  "display_name": "LC-PT-CHR-011 Dunn-Edwards Dark Engine DE 6350 - #3E3F41 - from $61 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Dunn-Edwards",
@@ -1240,7 +1240,7 @@
  },
  {
   "code": "LC-PT-CHR-012",
-  "display_name": "LC-PT-CHR-012 Dunn-Edwards Black DEA 002 - #3B3A3A - from $61/gal",
+  "display_name": "LC-PT-CHR-012 Dunn-Edwards Black DEA 002 - #3B3A3A - from $61 per gal",
   "family_code": "CHR",
   "family": "Charcoals & Blacks",
   "brand": "Dunn-Edwards",
@@ -1261,7 +1261,7 @@
  },
  {
   "code": "LC-PT-BLU-001",
-  "display_name": "LC-PT-BLU-001 Benjamin Moore Hale Navy HC-154 - #434B56 - from $56.09/gal",
+  "display_name": "LC-PT-BLU-001 Benjamin Moore Hale Navy HC-154 - #434B56 - from $56.09 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Benjamin Moore",
@@ -1282,7 +1282,7 @@
  },
  {
   "code": "LC-PT-BLU-002",
-  "display_name": "LC-PT-BLU-002 Benjamin Moore Newburyport Blue HC-155 - #465566 - from $56.09/gal",
+  "display_name": "LC-PT-BLU-002 Benjamin Moore Newburyport Blue HC-155 - #465566 - from $56.09 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Benjamin Moore",
@@ -1303,7 +1303,7 @@
  },
  {
   "code": "LC-PT-BLU-003",
-  "display_name": "LC-PT-BLU-003 Benjamin Moore Palladian Blue HC-144 - #C1D1C9 - from $56.09/gal",
+  "display_name": "LC-PT-BLU-003 Benjamin Moore Palladian Blue HC-144 - #C1D1C9 - from $56.09 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Benjamin Moore",
@@ -1324,7 +1324,7 @@
  },
  {
   "code": "LC-PT-BLU-004",
-  "display_name": "LC-PT-BLU-004 Sherwin-Williams Naval SW 6244 - #2F3D4C - from $65/gal",
+  "display_name": "LC-PT-BLU-004 Sherwin-Williams Naval SW 6244 - #2F3D4C - from $65 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Sherwin-Williams",
@@ -1345,7 +1345,7 @@
  },
  {
   "code": "LC-PT-BLU-005",
-  "display_name": "LC-PT-BLU-005 Sherwin-Williams Upward SW 6239 - #BFC9D0 - from $65/gal",
+  "display_name": "LC-PT-BLU-005 Sherwin-Williams Upward SW 6239 - #BFC9D0 - from $65 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Sherwin-Williams",
@@ -1366,7 +1366,7 @@
  },
  {
   "code": "LC-PT-BLU-006",
-  "display_name": "LC-PT-BLU-006 Sherwin-Williams Krypton SW 6247 - #B8C0C3 - from $65/gal",
+  "display_name": "LC-PT-BLU-006 Sherwin-Williams Krypton SW 6247 - #B8C0C3 - from $65 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Sherwin-Williams",
@@ -1387,7 +1387,7 @@
  },
  {
   "code": "LC-PT-BLU-007",
-  "display_name": "LC-PT-BLU-007 Farrow & Ball Hague Blue No. 30 - #40545D - from $160/gal",
+  "display_name": "LC-PT-BLU-007 Farrow & Ball Hague Blue No. 30 - #40545D - from $160 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Farrow & Ball",
@@ -1408,7 +1408,7 @@
  },
  {
   "code": "LC-PT-BLU-008",
-  "display_name": "LC-PT-BLU-008 Farrow & Ball Stiffkey Blue No. 281 - #4A6471 - from $160/gal",
+  "display_name": "LC-PT-BLU-008 Farrow & Ball Stiffkey Blue No. 281 - #4A6471 - from $160 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Farrow & Ball",
@@ -1429,7 +1429,7 @@
  },
  {
   "code": "LC-PT-BLU-009",
-  "display_name": "LC-PT-BLU-009 Farrow & Ball Oval Room Blue No. 85 - #889A9A - from $160/gal",
+  "display_name": "LC-PT-BLU-009 Farrow & Ball Oval Room Blue No. 85 - #889A9A - from $160 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Farrow & Ball",
@@ -1450,7 +1450,7 @@
  },
  {
   "code": "LC-PT-BLU-010",
-  "display_name": "LC-PT-BLU-010 Dunn-Edwards Blue Moon DE 5764 - #BBDEE5 - from $61/gal",
+  "display_name": "LC-PT-BLU-010 Dunn-Edwards Blue Moon DE 5764 - #BBDEE5 - from $61 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Dunn-Edwards",
@@ -1471,7 +1471,7 @@
  },
  {
   "code": "LC-PT-BLU-011",
-  "display_name": "LC-PT-BLU-011 Dunn-Edwards San Miguel Blue DET 569 - #527585 - from $61/gal",
+  "display_name": "LC-PT-BLU-011 Dunn-Edwards San Miguel Blue DET 569 - #527585 - from $61 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Dunn-Edwards",
@@ -1492,7 +1492,7 @@
  },
  {
   "code": "LC-PT-BLU-012",
-  "display_name": "LC-PT-BLU-012 Dunn-Edwards Dark & Stormy DET 572 - #353F51 - from $61/gal",
+  "display_name": "LC-PT-BLU-012 Dunn-Edwards Dark & Stormy DET 572 - #353F51 - from $61 per gal",
   "family_code": "BLU",
   "family": "Blues",
   "brand": "Dunn-Edwards",
@@ -1513,7 +1513,7 @@
  },
  {
   "code": "LC-PT-GRN-001",
-  "display_name": "LC-PT-GRN-001 Benjamin Moore Saybrook Sage HC-114 - #B1B7A2 - from $56.09/gal",
+  "display_name": "LC-PT-GRN-001 Benjamin Moore Saybrook Sage HC-114 - #B1B7A2 - from $56.09 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Benjamin Moore",
@@ -1534,7 +1534,7 @@
  },
  {
   "code": "LC-PT-GRN-002",
-  "display_name": "LC-PT-GRN-002 Benjamin Moore October Mist 1495 - #B6B8A5 - from $56.09/gal",
+  "display_name": "LC-PT-GRN-002 Benjamin Moore October Mist 1495 - #B6B8A5 - from $56.09 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Benjamin Moore",
@@ -1555,7 +1555,7 @@
  },
  {
   "code": "LC-PT-GRN-003",
-  "display_name": "LC-PT-GRN-003 Benjamin Moore Salamander 2050-10 - #2F3E3E - from $56.09/gal",
+  "display_name": "LC-PT-GRN-003 Benjamin Moore Salamander 2050-10 - #2F3E3E - from $56.09 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Benjamin Moore",
@@ -1576,7 +1576,7 @@
  },
  {
   "code": "LC-PT-GRN-004",
-  "display_name": "LC-PT-GRN-004 Sherwin-Williams Evergreen Fog SW 9130 - #95978A - from $65/gal",
+  "display_name": "LC-PT-GRN-004 Sherwin-Williams Evergreen Fog SW 9130 - #95978A - from $65 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Sherwin-Williams",
@@ -1597,7 +1597,7 @@
  },
  {
   "code": "LC-PT-GRN-005",
-  "display_name": "LC-PT-GRN-005 Sherwin-Williams Clary Sage SW 6178 - #ACAD97 - from $65/gal",
+  "display_name": "LC-PT-GRN-005 Sherwin-Williams Clary Sage SW 6178 - #ACAD97 - from $65 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Sherwin-Williams",
@@ -1618,7 +1618,7 @@
  },
  {
   "code": "LC-PT-GRN-006",
-  "display_name": "LC-PT-GRN-006 Sherwin-Williams Pewter Green SW 6208 - #5E6259 - from $65/gal",
+  "display_name": "LC-PT-GRN-006 Sherwin-Williams Pewter Green SW 6208 - #5E6259 - from $65 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Sherwin-Williams",
@@ -1639,7 +1639,7 @@
  },
  {
   "code": "LC-PT-GRN-007",
-  "display_name": "LC-PT-GRN-007 Farrow & Ball Green Smoke No. 47 - #717B72 - from $160/gal",
+  "display_name": "LC-PT-GRN-007 Farrow & Ball Green Smoke No. 47 - #717B72 - from $160 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Farrow & Ball",
@@ -1660,7 +1660,7 @@
  },
  {
   "code": "LC-PT-GRN-008",
-  "display_name": "LC-PT-GRN-008 Farrow & Ball Breakfast Room Green No. 81 - #93A388 - from $160/gal",
+  "display_name": "LC-PT-GRN-008 Farrow & Ball Breakfast Room Green No. 81 - #93A388 - from $160 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Farrow & Ball",
@@ -1681,7 +1681,7 @@
  },
  {
   "code": "LC-PT-GRN-009",
-  "display_name": "LC-PT-GRN-009 Farrow & Ball Card Room Green No. 79 - #889488 - from $160/gal",
+  "display_name": "LC-PT-GRN-009 Farrow & Ball Card Room Green No. 79 - #889488 - from $160 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Farrow & Ball",
@@ -1702,7 +1702,7 @@
  },
  {
   "code": "LC-PT-GRN-010",
-  "display_name": "LC-PT-GRN-010 Dunn-Edwards Olive Martini DE 5562 - #CED2AB - from $61/gal",
+  "display_name": "LC-PT-GRN-010 Dunn-Edwards Olive Martini DE 5562 - #CED2AB - from $61 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Dunn-Edwards",
@@ -1723,7 +1723,7 @@
  },
  {
   "code": "LC-PT-GRN-011",
-  "display_name": "LC-PT-GRN-011 Dunn-Edwards Meek Moss Green DET 606 - #869F98 - from $61/gal",
+  "display_name": "LC-PT-GRN-011 Dunn-Edwards Meek Moss Green DET 606 - #869F98 - from $61 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Dunn-Edwards",
@@ -1744,7 +1744,7 @@
  },
  {
   "code": "LC-PT-GRN-012",
-  "display_name": "LC-PT-GRN-012 Dunn-Edwards Lucky Clover DEA 130 - #006940 - from $61/gal",
+  "display_name": "LC-PT-GRN-012 Dunn-Edwards Lucky Clover DEA 130 - #006940 - from $61 per gal",
   "family_code": "GRN",
   "family": "Greens",
   "brand": "Dunn-Edwards",
@@ -1765,7 +1765,7 @@
  },
  {
   "code": "LC-PT-YLW-001",
-  "display_name": "LC-PT-YLW-001 Benjamin Moore Hawthorne Yellow HC-4 - #F5E1A4 - from $56.09/gal",
+  "display_name": "LC-PT-YLW-001 Benjamin Moore Hawthorne Yellow HC-4 - #F5E1A4 - from $56.09 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Benjamin Moore",
@@ -1786,7 +1786,7 @@
  },
  {
   "code": "LC-PT-YLW-002",
-  "display_name": "LC-PT-YLW-002 Benjamin Moore Weston Flax HC-5 - #F2E5BA - from $56.09/gal",
+  "display_name": "LC-PT-YLW-002 Benjamin Moore Weston Flax HC-5 - #F2E5BA - from $56.09 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Benjamin Moore",
@@ -1807,7 +1807,7 @@
  },
  {
   "code": "LC-PT-YLW-003",
-  "display_name": "LC-PT-YLW-003 Benjamin Moore Lemon Sorbet 2019-60 - #FEF2C3 - from $56.09/gal",
+  "display_name": "LC-PT-YLW-003 Benjamin Moore Lemon Sorbet 2019-60 - #FEF2C3 - from $56.09 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Benjamin Moore",
@@ -1828,7 +1828,7 @@
  },
  {
   "code": "LC-PT-YLW-004",
-  "display_name": "LC-PT-YLW-004 Sherwin-Williams Butter Up SW 6681 - #F6DDA3 - from $65/gal",
+  "display_name": "LC-PT-YLW-004 Sherwin-Williams Butter Up SW 6681 - #F6DDA3 - from $65 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Sherwin-Williams",
@@ -1849,7 +1849,7 @@
  },
  {
   "code": "LC-PT-YLW-005",
-  "display_name": "LC-PT-YLW-005 Sherwin-Williams Friendly Yellow SW 6680 - #F5E0B1 - from $65/gal",
+  "display_name": "LC-PT-YLW-005 Sherwin-Williams Friendly Yellow SW 6680 - #F5E0B1 - from $65 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Sherwin-Williams",
@@ -1870,7 +1870,7 @@
  },
  {
   "code": "LC-PT-YLW-006",
-  "display_name": "LC-PT-YLW-006 Sherwin-Williams Ceremonial Gold SW 6382 - #D69E59 - from $65/gal",
+  "display_name": "LC-PT-YLW-006 Sherwin-Williams Ceremonial Gold SW 6382 - #D69E59 - from $65 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Sherwin-Williams",
@@ -1891,7 +1891,7 @@
  },
  {
   "code": "LC-PT-YLW-007",
-  "display_name": "LC-PT-YLW-007 Farrow & Ball India Yellow No. 66 - #C59C5E - from $160/gal",
+  "display_name": "LC-PT-YLW-007 Farrow & Ball India Yellow No. 66 - #C59C5E - from $160 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Farrow & Ball",
@@ -1912,7 +1912,7 @@
  },
  {
   "code": "LC-PT-YLW-008",
-  "display_name": "LC-PT-YLW-008 Farrow & Ball Babouche No. 223 - #E9C267 - from $160/gal",
+  "display_name": "LC-PT-YLW-008 Farrow & Ball Babouche No. 223 - #E9C267 - from $160 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Farrow & Ball",
@@ -1933,7 +1933,7 @@
  },
  {
   "code": "LC-PT-YLW-009",
-  "display_name": "LC-PT-YLW-009 Farrow & Ball Sudbury Yellow No. 51 - #D7B576 - from $160/gal",
+  "display_name": "LC-PT-YLW-009 Farrow & Ball Sudbury Yellow No. 51 - #D7B576 - from $160 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Farrow & Ball",
@@ -1954,7 +1954,7 @@
  },
  {
   "code": "LC-PT-YLW-010",
-  "display_name": "LC-PT-YLW-010 Dunn-Edwards Lazy Daisy DET 491 - #F3E7B4 - from $61/gal",
+  "display_name": "LC-PT-YLW-010 Dunn-Edwards Lazy Daisy DET 491 - #F3E7B4 - from $61 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Dunn-Edwards",
@@ -1975,7 +1975,7 @@
  },
  {
   "code": "LC-PT-YLW-011",
-  "display_name": "LC-PT-YLW-011 Dunn-Edwards Sunnyside Up DET 495 - #EED053 - from $61/gal",
+  "display_name": "LC-PT-YLW-011 Dunn-Edwards Sunnyside Up DET 495 - #EED053 - from $61 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Dunn-Edwards",
@@ -1996,7 +1996,7 @@
  },
  {
   "code": "LC-PT-YLW-012",
-  "display_name": "LC-PT-YLW-012 Dunn-Edwards Sunny Disposition DET 481 - #DBA637 - from $61/gal",
+  "display_name": "LC-PT-YLW-012 Dunn-Edwards Sunny Disposition DET 481 - #DBA637 - from $61 per gal",
   "family_code": "YLW",
   "family": "Yellows",
   "brand": "Dunn-Edwards",
@@ -2017,7 +2017,7 @@
  },
  {
   "code": "LC-PT-ORG-001",
-  "display_name": "LC-PT-ORG-001 Benjamin Moore Rust 2175-30 - #B66340 - from $56.09/gal",
+  "display_name": "LC-PT-ORG-001 Benjamin Moore Rust 2175-30 - #B66340 - from $56.09 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Benjamin Moore",
@@ -2038,7 +2038,7 @@
  },
  {
   "code": "LC-PT-ORG-002",
-  "display_name": "LC-PT-ORG-002 Benjamin Moore Audubon Russet HC-51 - #AE6B55 - from $56.09/gal",
+  "display_name": "LC-PT-ORG-002 Benjamin Moore Audubon Russet HC-51 - #AE6B55 - from $56.09 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Benjamin Moore",
@@ -2059,7 +2059,7 @@
  },
  {
   "code": "LC-PT-ORG-003",
-  "display_name": "LC-PT-ORG-003 Benjamin Moore Terra Cotta Tile 2090-30 - #A14C3E - from $56.09/gal",
+  "display_name": "LC-PT-ORG-003 Benjamin Moore Terra Cotta Tile 2090-30 - #A14C3E - from $56.09 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Benjamin Moore",
@@ -2080,7 +2080,7 @@
  },
  {
   "code": "LC-PT-ORG-004",
-  "display_name": "LC-PT-ORG-004 Sherwin-Williams Cavern Clay SW 7701 - #AC6B53 - from $65/gal",
+  "display_name": "LC-PT-ORG-004 Sherwin-Williams Cavern Clay SW 7701 - #AC6B53 - from $65 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Sherwin-Williams",
@@ -2101,7 +2101,7 @@
  },
  {
   "code": "LC-PT-ORG-005",
-  "display_name": "LC-PT-ORG-005 Sherwin-Williams Rookwood Terra Cotta SW 2803 - #975840 - from $65/gal",
+  "display_name": "LC-PT-ORG-005 Sherwin-Williams Rookwood Terra Cotta SW 2803 - #975840 - from $65 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Sherwin-Williams",
@@ -2122,7 +2122,7 @@
  },
  {
   "code": "LC-PT-ORG-006",
-  "display_name": "LC-PT-ORG-006 Sherwin-Williams Copper Mountain SW 6356 - #A6613C - from $65/gal",
+  "display_name": "LC-PT-ORG-006 Sherwin-Williams Copper Mountain SW 6356 - #A6613C - from $65 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Sherwin-Williams",
@@ -2143,7 +2143,7 @@
  },
  {
   "code": "LC-PT-ORG-007",
-  "display_name": "LC-PT-ORG-007 Farrow & Ball Charlotte's Locks No. 268 - #CF5E3E - from $160/gal",
+  "display_name": "LC-PT-ORG-007 Farrow & Ball Charlotte's Locks No. 268 - #CF5E3E - from $160 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Farrow & Ball",
@@ -2164,7 +2164,7 @@
  },
  {
   "code": "LC-PT-ORG-008",
-  "display_name": "LC-PT-ORG-008 Farrow & Ball Red Earth No. 64 - #BF7A6A - from $160/gal",
+  "display_name": "LC-PT-ORG-008 Farrow & Ball Red Earth No. 64 - #BF7A6A - from $160 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Farrow & Ball",
@@ -2185,7 +2185,7 @@
  },
  {
   "code": "LC-PT-ORG-009",
-  "display_name": "LC-PT-ORG-009 Farrow & Ball Orangery No. 70 - #E1B06E - from $160/gal",
+  "display_name": "LC-PT-ORG-009 Farrow & Ball Orangery No. 70 - #E1B06E - from $160 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Farrow & Ball",
@@ -2206,7 +2206,7 @@
  },
  {
   "code": "LC-PT-ORG-010",
-  "display_name": "LC-PT-ORG-010 Dunn-Edwards Santa Fe Sunrise DET 468 - #CC9469 - from $61/gal",
+  "display_name": "LC-PT-ORG-010 Dunn-Edwards Santa Fe Sunrise DET 468 - #CC9469 - from $61 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Dunn-Edwards",
@@ -2227,7 +2227,7 @@
  },
  {
   "code": "LC-PT-ORG-011",
-  "display_name": "LC-PT-ORG-011 Dunn-Edwards Monarch Migration DET 466 - #BF764C - from $61/gal",
+  "display_name": "LC-PT-ORG-011 Dunn-Edwards Monarch Migration DET 466 - #BF764C - from $61 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Dunn-Edwards",
@@ -2248,7 +2248,7 @@
  },
  {
   "code": "LC-PT-ORG-012",
-  "display_name": "LC-PT-ORG-012 Dunn-Edwards Harrison Rust DET 467 - #9A5F3F - from $61/gal",
+  "display_name": "LC-PT-ORG-012 Dunn-Edwards Harrison Rust DET 467 - #9A5F3F - from $61 per gal",
   "family_code": "ORG",
   "family": "Oranges & Terracottas",
   "brand": "Dunn-Edwards",
@@ -2269,7 +2269,7 @@
  },
  {
   "code": "LC-PT-RED-001",
-  "display_name": "LC-PT-RED-001 Benjamin Moore Caliente AF-290 - #8A2728 - from $56.09/gal",
+  "display_name": "LC-PT-RED-001 Benjamin Moore Caliente AF-290 - #8A2728 - from $56.09 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Benjamin Moore",
@@ -2290,7 +2290,7 @@
  },
  {
   "code": "LC-PT-RED-002",
-  "display_name": "LC-PT-RED-002 Benjamin Moore Raspberry Blush 2008-30 - #D75F56 - from $56.09/gal",
+  "display_name": "LC-PT-RED-002 Benjamin Moore Raspberry Blush 2008-30 - #D75F56 - from $56.09 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Benjamin Moore",
@@ -2311,7 +2311,7 @@
  },
  {
   "code": "LC-PT-RED-003",
-  "display_name": "LC-PT-RED-003 Benjamin Moore Country Redwood HC-183 - #762C23 - from $56.09/gal",
+  "display_name": "LC-PT-RED-003 Benjamin Moore Country Redwood HC-183 - #762C23 - from $56.09 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Benjamin Moore",
@@ -2332,7 +2332,7 @@
  },
  {
   "code": "LC-PT-RED-004",
-  "display_name": "LC-PT-RED-004 Sherwin-Williams Redend Point SW 9081 - #AE8E7E - from $65/gal",
+  "display_name": "LC-PT-RED-004 Sherwin-Williams Redend Point SW 9081 - #AE8E7E - from $65 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Sherwin-Williams",
@@ -2353,7 +2353,7 @@
  },
  {
   "code": "LC-PT-RED-005",
-  "display_name": "LC-PT-RED-005 Sherwin-Williams Positive Red SW 6871 - #AD2C34 - from $65/gal",
+  "display_name": "LC-PT-RED-005 Sherwin-Williams Positive Red SW 6871 - #AD2C34 - from $65 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Sherwin-Williams",
@@ -2374,7 +2374,7 @@
  },
  {
   "code": "LC-PT-RED-006",
-  "display_name": "LC-PT-RED-006 Sherwin-Williams Rosedust SW 0025 - #CC8D84 - from $65/gal",
+  "display_name": "LC-PT-RED-006 Sherwin-Williams Rosedust SW 0025 - #CC8D84 - from $65 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Sherwin-Williams",
@@ -2395,7 +2395,7 @@
  },
  {
   "code": "LC-PT-RED-007",
-  "display_name": "LC-PT-RED-007 Farrow & Ball Setting Plaster No. 231 - #D5BEAE - from $160/gal",
+  "display_name": "LC-PT-RED-007 Farrow & Ball Setting Plaster No. 231 - #D5BEAE - from $160 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Farrow & Ball",
@@ -2416,7 +2416,7 @@
  },
  {
   "code": "LC-PT-RED-008",
-  "display_name": "LC-PT-RED-008 Farrow & Ball Sulking Room Pink No. 295 - #A0837F - from $160/gal",
+  "display_name": "LC-PT-RED-008 Farrow & Ball Sulking Room Pink No. 295 - #A0837F - from $160 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Farrow & Ball",
@@ -2437,7 +2437,7 @@
  },
  {
   "code": "LC-PT-RED-009",
-  "display_name": "LC-PT-RED-009 Farrow & Ball Rectory Red No. 217 - #A0404C - from $160/gal",
+  "display_name": "LC-PT-RED-009 Farrow & Ball Rectory Red No. 217 - #A0404C - from $160 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Farrow & Ball",
@@ -2458,7 +2458,7 @@
  },
  {
   "code": "LC-PT-RED-010",
-  "display_name": "LC-PT-RED-010 Dunn-Edwards City of Pink Angels DET 434 - #E6B4A6 - from $61/gal",
+  "display_name": "LC-PT-RED-010 Dunn-Edwards City of Pink Angels DET 434 - #E6B4A6 - from $61 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Dunn-Edwards",
@@ -2479,7 +2479,7 @@
  },
  {
   "code": "LC-PT-RED-011",
-  "display_name": "LC-PT-RED-011 Dunn-Edwards Cherry Berry DE 5034 - #9F4D65 - from $61/gal",
+  "display_name": "LC-PT-RED-011 Dunn-Edwards Cherry Berry DE 5034 - #9F4D65 - from $61 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Dunn-Edwards",
@@ -2500,7 +2500,7 @@
  },
  {
   "code": "LC-PT-RED-012",
-  "display_name": "LC-PT-RED-012 Dunn-Edwards Burnt Crimson DEC 705 - #784D4C - from $61/gal",
+  "display_name": "LC-PT-RED-012 Dunn-Edwards Burnt Crimson DEC 705 - #784D4C - from $61 per gal",
   "family_code": "RED",
   "family": "Reds & Pinks",
   "brand": "Dunn-Edwards",
@@ -2521,7 +2521,7 @@
  },
  {
   "code": "LC-PT-PUR-001",
-  "display_name": "LC-PT-PUR-001 Benjamin Moore Shadow 2117-30 - #514A58 - from $56.09/gal",
+  "display_name": "LC-PT-PUR-001 Benjamin Moore Shadow 2117-30 - #514A58 - from $56.09 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Benjamin Moore",
@@ -2542,7 +2542,7 @@
  },
  {
   "code": "LC-PT-PUR-002",
-  "display_name": "LC-PT-PUR-002 Benjamin Moore Caponata AF-650 - #453133 - from $56.09/gal",
+  "display_name": "LC-PT-PUR-002 Benjamin Moore Caponata AF-650 - #453133 - from $56.09 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Benjamin Moore",
@@ -2563,7 +2563,7 @@
  },
  {
   "code": "LC-PT-PUR-003",
-  "display_name": "LC-PT-PUR-003 Benjamin Moore Dark Purple 2073-10 - #4B3540 - from $56.09/gal",
+  "display_name": "LC-PT-PUR-003 Benjamin Moore Dark Purple 2073-10 - #4B3540 - from $56.09 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Benjamin Moore",
@@ -2584,7 +2584,7 @@
  },
  {
   "code": "LC-PT-PUR-004",
-  "display_name": "LC-PT-PUR-004 Sherwin-Williams Expressive Plum SW 6271 - #695C62 - from $65/gal",
+  "display_name": "LC-PT-PUR-004 Sherwin-Williams Expressive Plum SW 6271 - #695C62 - from $65 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Sherwin-Williams",
@@ -2605,7 +2605,7 @@
  },
  {
   "code": "LC-PT-PUR-005",
-  "display_name": "LC-PT-PUR-005 Sherwin-Williams Mauve Finery SW 6282 - #CBB8C0 - from $65/gal",
+  "display_name": "LC-PT-PUR-005 Sherwin-Williams Mauve Finery SW 6282 - #CBB8C0 - from $65 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Sherwin-Williams",
@@ -2626,7 +2626,7 @@
  },
  {
   "code": "LC-PT-PUR-006",
-  "display_name": "LC-PT-PUR-006 Sherwin-Williams Exclusive Plum SW 6263 - #736F78 - from $65/gal",
+  "display_name": "LC-PT-PUR-006 Sherwin-Williams Exclusive Plum SW 6263 - #736F78 - from $65 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Sherwin-Williams",
@@ -2647,7 +2647,7 @@
  },
  {
   "code": "LC-PT-PUR-007",
-  "display_name": "LC-PT-PUR-007 Farrow & Ball Brinjal No. 222 - #63424B - from $160/gal",
+  "display_name": "LC-PT-PUR-007 Farrow & Ball Brinjal No. 222 - #63424B - from $160 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Farrow & Ball",
@@ -2668,7 +2668,7 @@
  },
  {
   "code": "LC-PT-PUR-008",
-  "display_name": "LC-PT-PUR-008 Farrow & Ball Pelt No. 254 - #52454F - from $160/gal",
+  "display_name": "LC-PT-PUR-008 Farrow & Ball Pelt No. 254 - #52454F - from $160 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Farrow & Ball",
@@ -2689,7 +2689,7 @@
  },
  {
   "code": "LC-PT-PUR-009",
-  "display_name": "LC-PT-PUR-009 Farrow & Ball Calluna No. 270 - #C9C6CD - from $160/gal",
+  "display_name": "LC-PT-PUR-009 Farrow & Ball Calluna No. 270 - #C9C6CD - from $160 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Farrow & Ball",
@@ -2710,7 +2710,7 @@
  },
  {
   "code": "LC-PT-PUR-010",
-  "display_name": "LC-PT-PUR-010 Dunn-Edwards Antique Heather DE 5975 - #CDBACB - from $61/gal",
+  "display_name": "LC-PT-PUR-010 Dunn-Edwards Antique Heather DE 5975 - #CDBACB - from $61 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Dunn-Edwards",
@@ -2731,7 +2731,7 @@
  },
  {
   "code": "LC-PT-PUR-011",
-  "display_name": "LC-PT-PUR-011 Dunn-Edwards Pale Eggplant DE 5956 - #8A779A - from $61/gal",
+  "display_name": "LC-PT-PUR-011 Dunn-Edwards Pale Eggplant DE 5956 - #8A779A - from $61 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Dunn-Edwards",
@@ -2752,7 +2752,7 @@
  },
  {
   "code": "LC-PT-PUR-012",
-  "display_name": "LC-PT-PUR-012 Dunn-Edwards Purple Odyssey DEA 143 - #643E65 - from $61/gal",
+  "display_name": "LC-PT-PUR-012 Dunn-Edwards Purple Odyssey DEA 143 - #643E65 - from $61 per gal",
   "family_code": "PUR",
   "family": "Purples",
   "brand": "Dunn-Edwards",
@@ -2773,7 +2773,7 @@
  },
  {
   "code": "LC-PT-BRN-001",
-  "display_name": "LC-PT-BRN-001 Benjamin Moore Branchport Brown HC-72 - #60514A - from $56.09/gal",
+  "display_name": "LC-PT-BRN-001 Benjamin Moore Branchport Brown HC-72 - #60514A - from $56.09 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Benjamin Moore",
@@ -2794,7 +2794,7 @@
  },
  {
   "code": "LC-PT-BRN-002",
-  "display_name": "LC-PT-BRN-002 Benjamin Moore Wenge AF-180 - #3C2D2B - from $56.09/gal",
+  "display_name": "LC-PT-BRN-002 Benjamin Moore Wenge AF-180 - #3C2D2B - from $56.09 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Benjamin Moore",
@@ -2815,7 +2815,7 @@
  },
  {
   "code": "LC-PT-BRN-003",
-  "display_name": "LC-PT-BRN-003 Benjamin Moore Mocha Brown 2107-20 - #664F40 - from $56.09/gal",
+  "display_name": "LC-PT-BRN-003 Benjamin Moore Mocha Brown 2107-20 - #664F40 - from $56.09 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Benjamin Moore",
@@ -2836,7 +2836,7 @@
  },
  {
   "code": "LC-PT-BRN-004",
-  "display_name": "LC-PT-BRN-004 Sherwin-Williams Urbane Bronze SW 7048 - #54504A - from $65/gal",
+  "display_name": "LC-PT-BRN-004 Sherwin-Williams Urbane Bronze SW 7048 - #54504A - from $65 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Sherwin-Williams",
@@ -2857,7 +2857,7 @@
  },
  {
   "code": "LC-PT-BRN-005",
-  "display_name": "LC-PT-BRN-005 Sherwin-Williams Turkish Coffee SW 6076 - #4D3930 - from $65/gal",
+  "display_name": "LC-PT-BRN-005 Sherwin-Williams Turkish Coffee SW 6076 - #4D3930 - from $65 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Sherwin-Williams",
@@ -2878,7 +2878,7 @@
  },
  {
   "code": "LC-PT-BRN-006",
-  "display_name": "LC-PT-BRN-006 Sherwin-Williams Tiki Hut SW 7509 - #826F5E - from $65/gal",
+  "display_name": "LC-PT-BRN-006 Sherwin-Williams Tiki Hut SW 7509 - #826F5E - from $65 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Sherwin-Williams",
@@ -2899,7 +2899,7 @@
  },
  {
   "code": "LC-PT-BRN-007",
-  "display_name": "LC-PT-BRN-007 Farrow & Ball London Clay No. 244 - #736660 - from $160/gal",
+  "display_name": "LC-PT-BRN-007 Farrow & Ball London Clay No. 244 - #736660 - from $160 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Farrow & Ball",
@@ -2920,7 +2920,7 @@
  },
  {
   "code": "LC-PT-BRN-008",
-  "display_name": "LC-PT-BRN-008 Farrow & Ball Salon Drab No. 290 - #716557 - from $160/gal",
+  "display_name": "LC-PT-BRN-008 Farrow & Ball Salon Drab No. 290 - #716557 - from $160 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Farrow & Ball",
@@ -2941,7 +2941,7 @@
  },
  {
   "code": "LC-PT-BRN-009",
-  "display_name": "LC-PT-BRN-009 Farrow & Ball Dead Salmon No. 28 - #AE9D8D - from $160/gal",
+  "display_name": "LC-PT-BRN-009 Farrow & Ball Dead Salmon No. 28 - #AE9D8D - from $160 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Farrow & Ball",
@@ -2962,7 +2962,7 @@
  },
  {
   "code": "LC-PT-BRN-010",
-  "display_name": "LC-PT-BRN-010 Dunn-Edwards River Rocks DE 6061 - #897870 - from $61/gal",
+  "display_name": "LC-PT-BRN-010 Dunn-Edwards River Rocks DE 6061 - #897870 - from $61 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Dunn-Edwards",
@@ -2983,7 +2983,7 @@
  },
  {
   "code": "LC-PT-BRN-011",
-  "display_name": "LC-PT-BRN-011 Dunn-Edwards Briar DEC 712 - #745443 - from $61/gal",
+  "display_name": "LC-PT-BRN-011 Dunn-Edwards Briar DEC 712 - #745443 - from $61 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Dunn-Edwards",
@@ -3004,7 +3004,7 @@
  },
  {
   "code": "LC-PT-BRN-012",
-  "display_name": "LC-PT-BRN-012 Dunn-Edwards Northern Territory DEA 158 - #5E463C - from $61/gal",
+  "display_name": "LC-PT-BRN-012 Dunn-Edwards Northern Territory DEA 158 - #5E463C - from $61 per gal",
   "family_code": "BRN",
   "family": "Browns & Taupes",
   "brand": "Dunn-Edwards",
