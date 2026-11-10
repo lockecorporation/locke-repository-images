@@ -2004,8 +2004,8 @@
  {
   "code": "LC-WT-MTL-001",
   "display_name": "LC-WT-MTL-001 Clé Tile Clé Zellige Baguette Gloss - Platinum 2 x 6 x ¾ in",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "ZEL",
+  "type": "Zellige",
   "tier": "Luxury",
   "brand": "Clé Tile",
   "retailer": "Clé Tile",
@@ -2022,13 +2022,14 @@
   "source": "Shopify product feed",
   "swatch_method": "center crop=[0.1, 0.38, 0.9, 0.62]",
   "repo_file": "photos/lc-wt-mtl-001.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-002",
   "display_name": "LC-WT-MTL-002 Clé Tile Clé Zellige Petite Gloss - Platinum 4 x 4 x ⅜ in",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "ZEL",
+  "type": "Zellige",
   "tier": "Luxury",
   "brand": "Clé Tile",
   "retailer": "Clé Tile",
@@ -2045,7 +2046,8 @@
   "source": "Shopify product feed",
   "swatch_method": "inner frac=0.5",
   "repo_file": "photos/lc-wt-mtl-002.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-003",
@@ -2096,8 +2098,8 @@
  {
   "code": "LC-WT-MTL-005",
   "display_name": "LC-WT-MTL-005 Tile Club 12 in x 24 in Ionic Metallic Copper Porcelain Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "POR",
+  "type": "Porcelain",
   "tier": "Mid",
   "brand": "Tile Club",
   "retailer": "Tile Club",
@@ -2114,13 +2116,14 @@
   "source": "Shopify product feed",
   "swatch_method": "auto",
   "repo_file": "photos/lc-wt-mtl-005.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-006",
   "display_name": "LC-WT-MTL-006 Tile Club Circuit Oxido Futuristic Porcelain Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "POR",
+  "type": "Porcelain",
   "tier": "Mid",
   "brand": "Tile Club",
   "retailer": "Tile Club",
@@ -2137,13 +2140,14 @@
   "source": "Shopify product feed",
   "swatch_method": "center",
   "repo_file": "photos/lc-wt-mtl-006.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-007",
   "display_name": "LC-WT-MTL-007 Tile Club Doira Antique Copper Hexagon Mosaic Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "GLS",
+  "type": "Glass",
   "tier": "Mid",
   "brand": "Tile Club",
   "retailer": "Tile Club",
@@ -2160,13 +2164,14 @@
   "source": "Shopify product feed",
   "swatch_method": "inner frac=0.75",
   "repo_file": "photos/lc-wt-mtl-007.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-008",
   "display_name": "LC-WT-MTL-008 Tile Club Plume Metallic Platinum Feather Ceramic Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "CER",
+  "type": "Ceramic",
   "tier": "Mid",
   "brand": "Tile Club",
   "retailer": "Tile Club",
@@ -2183,13 +2188,14 @@
   "source": "Shopify product feed",
   "swatch_method": "inner frac=0.7",
   "repo_file": "photos/lc-wt-mtl-008.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-009",
   "display_name": "LC-WT-MTL-009 TileBar Calypso 3D Carved Bianco White Jade with Brass Inlay 8x16 Honed Marble Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "STN",
+  "type": "Natural Stone",
   "tier": "Mid",
   "brand": "TileBar",
   "retailer": "TileBar",
@@ -2206,13 +2212,14 @@
   "source": "TileBar category page",
   "swatch_method": "center",
   "repo_file": "photos/lc-wt-mtl-009.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-010",
   "display_name": "LC-WT-MTL-010 TileBar Decade Nero Blanco Polished Marble and Brass Mosaic Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "STN",
+  "type": "Natural Stone",
   "tier": "Mid",
   "brand": "TileBar",
   "retailer": "TileBar",
@@ -2229,13 +2236,14 @@
   "source": "TileBar category page",
   "swatch_method": "auto",
   "repo_file": "photos/lc-wt-mtl-010.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-011",
   "display_name": "LC-WT-MTL-011 TileBar Morgana Carrara Polished Marble and Brass Mosaic Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "STN",
+  "type": "Natural Stone",
   "tier": "Mid",
   "brand": "TileBar",
   "retailer": "TileBar",
@@ -2252,7 +2260,8 @@
   "source": "TileBar category page",
   "swatch_method": "auto",
   "repo_file": "photos/lc-wt-mtl-011.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-012",
@@ -2280,8 +2289,8 @@
  {
   "code": "LC-WT-MTL-013",
   "display_name": "LC-WT-MTL-013 TileBar Vara Calacatta Polished Marble and Brass Mosaic Tile",
-  "type_code": "MTL",
-  "type": "Metal & Metallic",
+  "type_code": "STN",
+  "type": "Natural Stone",
   "tier": "Mid",
   "brand": "TileBar",
   "retailer": "TileBar",
@@ -2298,7 +2307,8 @@
   "source": "TileBar category page",
   "swatch_method": "auto",
   "repo_file": "photos/lc-wt-mtl-013.jpg",
-  "collected": "2026-11-09"
+  "collected": "2026-11-09",
+  "notes": "Retyped from Metal & Metallic by body material after owner review 2026-11-10; code unchanged."
  },
  {
   "code": "LC-WT-MTL-014",
