@@ -1,0 +1,80 @@
+[
+ {
+  "itemId": "329025433",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "Bosch",
+  "source_title": "300 Series 18 in. Stainless Steel Front Control Smart Built-In Quiet 46 dBA Dishwasher with 3rd Rack",
+  "model": "SPE53C55UC",
+  "list_price": 1099.0,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/Bosch-300-Series-18-in-Stainless-Steel-Front-Control-Smart-Built-In-Quiet-46-dBA-Dishwasher-with-3rd-Rack-SPE53C55UC/329025433",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-spe53c55uc.png"
+ },
+ {
+  "itemId": "304789505",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "GE",
+  "source_title": "Profile 18 in. Top Control ADA Dishwasher in Stainless Steel with Stainless Steel Tub and 47 dBA",
+  "model": "PDT145SSLSS",
+  "list_price": 899.0,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/GE-Profile-18-in-Top-Control-ADA-Dishwasher-in-Stainless-Steel-with-Stainless-Steel-Tub-and-47-dBA-PDT145SSLSS/304789505",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-pdt145sslss.png"
+ },
+ {
+  "itemId": "309054054",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "Frigidaire",
+  "source_title": "18 in. Front Control Built-In Tall Tub 52 dBA Dishwasher with Stainless Steel Tub in Stainless Steel with 6-Cycles",
+  "model": "FFBD1831US",
+  "list_price": 809.0,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/Frigidaire-18-in-Front-Control-Built-In-Tall-Tub-52-dBA-Dishwasher-with-Stainless-Steel-Tub-in-Stainless-Steel-with-6-Cycles-FFBD1831US/309054054",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-ffbd1831us.png"
+ },
+ {
+  "itemId": "314317891",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "Samsung",
+  "source_title": "18 in. Top Control Built-In Tall Tub Dishwasher in Fingerprint Resistant Stainless Steel with AutoRelease, 46 dBA",
+  "model": "DW50T6060US",
+  "list_price": 809.0,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/Samsung-18-in-Top-Control-Built-In-Tall-Tub-Dishwasher-in-Fingerprint-Resistant-Stainless-Steel-with-AutoRelease-46-dBA-DW50T6060US/314317891",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-dw50t6060us.png"
+ },
+ {
+  "itemId": "305906437",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "Haier",
+  "source_title": "18 in. Top Control Built-In Dishwasher in Stainless Steel with 3-Cycles",
+  "model": "QDT125SSLSS",
+  "list_price": 829.0,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/Haier-18-in-Top-Control-Built-In-Dishwasher-in-Stainless-Steel-with-3-Cycles-QDT125SSLSS/305906437",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-qdt125sslss.png"
+ },
+ {
+  "itemId": "333509102",
+  "kind": "dishwasher",
+  "width_in": 18,
+  "brand": "Sharp",
+  "source_title": "18 in. Front Control Standard Built-In Stainless Steel Dishwasher with 3rd Rack 47 dBA Energy Star Certified",
+  "model": "SDW4523MS",
+  "list_price": 699,
+  "retailer": "The Home Depot",
+  "product_url": "https://www.homedepot.com/p/Sharp-18-in-Front-Control-Standard-Built-In-Stainless-Steel-Dishwasher-with-3rd-Rack-47-dBA-Energy-Star-Certified-SDW4523MS/333509102",
+  "photo_method": "Home Depot listing photo cut out to a transparent 1200x1200 PNG",
+  "repo_file": "photos/appliance-dishwasher-sdw4523ms.png"
+ }
+]
