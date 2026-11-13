@@ -333,7 +333,7 @@
   "retailer": "The Home Depot",
   "product_url": "https://www.homedepot.com/p/Commercial-Electric-110-CFM-1-5-Sone-Bathroom-Exhaust-Fan-with-Humidity-Sensing-BPT14-24OD-H/329022791",
   "image_source_url": "https://images.thdstatic.com/productImages/1a5ae963-ddbf-44fd-86df-c52c286f73b4/svn/white-commercial-electric-bath-fans-bpt14-24od-h-64_1000.jpg",
-  "photo_method": "retailer product photo, background removed (edge-connected white only), small badges removed, transparent 1200x1200 PNG fit to a 1000 px box like the other product photos",
+  "photo_method": "retailer product photo cut out with an IS-Net segmentation mask (filled, largest part), transparent 1200x1200 PNG fit to a 1000 px box; redone Nov 12 2026 because the white grille frame had been removed with the background",
   "repo_file": "photos/lc-bv-026.png",
   "collected": "2026-11-10"
  },
@@ -346,7 +346,7 @@
   "retailer": "The Home Depot",
   "product_url": "https://www.homedepot.com/p/Panasonic-WhisperValue-DC-Pick-A-Flow-50-80-or-100-CFM-Ceiling-or-Wall-Very-Low-Profile-Exhaust-Fan-with-Condensation-Sensor-FV-0510VSC1/303606606",
   "image_source_url": "https://images.thdstatic.com/productImages/da77f9c5-5df6-4bfe-bc89-fd51390671d6/svn/white-panasonic-bath-fans-fv-0510vsc1-64_1000.jpg",
-  "photo_method": "retailer product photo, background removed (edge-connected white only), small badges removed, transparent 1200x1200 PNG fit to a 1000 px box like the other product photos",
+  "photo_method": "retailer product photo cut out with an IS-Net segmentation mask (filled, largest part), transparent 1200x1200 PNG fit to a 1000 px box; redone Nov 12 2026 because the white grille frame had been removed with the background",
   "repo_file": "photos/lc-bv-027.png",
   "collected": "2026-11-10"
  },
@@ -450,7 +450,7 @@
   "retailer": "The Home Depot",
   "product_url": "https://www.homedepot.com/p/Delta-Breez-Radiance-Series-80-CFM-Ceiling-Bathroom-Exhaust-Fan-with-Light-and-Heater-RAD80L/205088881",
   "image_source_url": "https://images.thdstatic.com/productImages/49e7c1a4-4e80-4213-adf0-9fc80851bcdb/svn/white-delta-breez-bath-fans-rad80l-64_1000.jpg",
-  "photo_method": "retailer product photo, background removed (edge-connected white only), small badges removed, transparent 1200x1200 PNG fit to a 1000 px box like the other product photos",
+  "photo_method": "retailer product photo cut out with an IS-Net segmentation mask (filled, largest part), transparent 1200x1200 PNG fit to a 1000 px box; redone Nov 12 2026 because the white grille frame had been removed with the background",
   "repo_file": "photos/lc-bv-036.png",
   "collected": "2026-11-10"
  },
