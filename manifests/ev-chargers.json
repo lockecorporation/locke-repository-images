@@ -176,7 +176,7 @@
   "product_url": "https://www.triad-ds.com/product/autel-maxicharger-ac-elite-business-50a-level-2-ev-charger/",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0145/2333/4742/files/Autel-MCC50AHI-MaxiCharger-Commercial-Grade-Level-2-50A-EV-Charging-Station-with-In-Body-Holster-Hardwire.jpg",
   "repo_file": "photos/ev-autel-elite-business.png",
-  "photo_method": "face-on front view, background removed, transparent 1200x1200 PNG, product fit to 1000 px box (100 px margin) like the panel/receptacle photos",
+  "photo_method": "face-on front view cut out with an IS-Net segmentation mask (soft edges kept between the cable loops), transparent 1200x1200 PNG fit to a 1000 px box; redone Nov 12 2026 (the first cut left ragged edges and cable ghosts)",
   "collected": "2026-11-10"
  }
 ]
