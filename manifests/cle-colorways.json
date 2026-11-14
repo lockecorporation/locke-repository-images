@@ -1,0 +1,3458 @@
+[
+ {
+  "codes": [
+   "LC-WT-TER-069"
+  ],
+  "brand": "Clé Tile",
+  "product": "Belgian Reproduction Les Globes Unfinished",
+  "color": "Flemish Black",
+  "size": "8\"x8\"x¾\"",
+  "price_per_sqft": 33.21,
+  "product_url": "https://www.cletile.com/products/belgian-reproduction-terracotta-circle-flemish-black",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_c_l_cle_tile_belgian_reproduction_circle_single_8x8_overhead_main_3600x2400_cb5b411e-d7df-401d-a206-c06ea058e1b9.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/belgian-reproduction-terracotta-circle-flemish-black.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-TER-070"
+  ],
+  "brand": "Clé Tile",
+  "product": "Belgian Reproduction Les Globes Unfinished",
+  "color": "Flemish Red",
+  "size": "8\"x8\"x¾\"",
+  "price_per_sqft": 33.21,
+  "product_url": "https://www.cletile.com/products/belgian-reproduction-terracotta-circle-flemish-red",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail__c_l_cle_tile_terracotta_flemish_red_circle_aerial_master_900x900_2f51e047-de6c-416e-9cc5-1741166cc568.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/belgian-reproduction-terracotta-circle-flemish-red.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-TER-071"
+  ],
+  "brand": "Clé Tile",
+  "product": "Belgian Reproduction Classique Grande Unfinished",
+  "color": "Flemish Black",
+  "size": "8\"x8\"x¾\"",
+  "price_per_sqft": 23.85,
+  "product_url": "https://www.cletile.com/products/belgian-reproduction-terracotta-square-flemish-black",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_terracotta_belgian_reproduction_square_8x8_4up_aerial_main.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/belgian-reproduction-terracotta-square-flemish-black.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-TER-072"
+  ],
+  "brand": "Clé Tile",
+  "product": "Belgian Reproduction Classique Grande Unfinished",
+  "color": "Flemish Red",
+  "size": "8\"x8\"x¾\"",
+  "price_per_sqft": 23.85,
+  "product_url": "https://www.cletile.com/products/belgian-reproduction-terracotta-square-flemish-red",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail__c_l_cle_tile_terracotta_flemish_red_grey_rectangle_8x8_single_aerial_master_900x900_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/belgian-reproduction-terracotta-square-flemish-red.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-CEM-031"
+  ],
+  "brand": "Clé Tile",
+  "product": "1965 Erica Tanov",
+  "color": "Ale, Chestnut + Forest",
+  "size": "8 x 8 in",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-1965-ale-chestnut-forest",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22795-cle-tile-artist-cement-ericatanov-1965-brown-green-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-1965-ale-chestnut-forest.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-CEM-032"
+  ],
+  "brand": "Clé Tile",
+  "product": "1965 Erica Tanov",
+  "color": "Celadon, Olive + Ru",
+  "size": "8 x 8 in",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-1965-celadon-olive-ru",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22792-cle-tile-artist-cement-ericatanov-1965-green-teal-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-1965-celadon-olive-ru.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-CEM-033"
+  ],
+  "brand": "Clé Tile",
+  "product": "1965 Erica Tanov",
+  "color": "Flame, Chestnut + Prune",
+  "size": "8 x 8 in",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-1965-flame-chestnut-prune",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22793-cle-tile-artist-cement-ericatanov-1965-brown-red-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-1965-flame-chestnut-prune.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-CEM-034"
+  ],
+  "brand": "Clé Tile",
+  "product": "1965 Erica Tanov",
+  "color": "Glove, Paste + Charcoal",
+  "size": "8 x 8 in",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-1965-glove-paste-charcoal",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22794_cle-tile-artist-cement-ericatanov-1965-black-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-1965-glove-paste-charcoal.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-036",
+   "LC-FT-CEM-035"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Celadon + Olive",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-fern-celadon-olive",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22798-cle-tile-artist-cement-ericatanov-fern-teal-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-fern-celadon-olive.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-037",
+   "LC-FT-CEM-036"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Charcoal + Paste",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-fern-charcoal-paste",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22799-cle-tile-artist-cement-ericatanov-fern-black-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-fern-charcoal-paste.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-038",
+   "LC-FT-CEM-037"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Flame + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-fern-flame-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22796-cle-tile-artist-cement-ericatanov-fern-red-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-fern-flame-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-039"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Flame + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-jacobsen-flame-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22803-cle-tile-artist-cement-ericatanov-jacobson-red-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-jacobsen-flame-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-040"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Glove + Paste",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-jacobsen-glove-paste",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22801-cle-tile-artist-cement-ericatanov-jacobson-tan-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-jacobsen-glove-paste.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-041"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Olive + Celadon",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-cle-erica-tanov-jacobsen-olive-celadon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22802-cle-tile-artist-cement-ericatanov-jacobson-green-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-erica-tanov-jacobsen-olive-celadon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-042"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Chestnut, Army, Abyss + Forest",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-frari-chestnut-army-abyss-forest",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22815-cle-reath-cement-army-abyss-forest-chestnut-4up-22814.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-frari-chestnut-army-abyss-forest.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-043"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Abyss, Army, Vintage Jade + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-marciana-abyss-army-vintage-jade-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22814-cement-cle-reath-design-marciana-abyss-army-vintage-jade-chestnut-24up.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-marciana-abyss-army-vintage-jade-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-044"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Roan, Chestnut, Umber + Vintage Jade",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-risguardo-roan-chestnut-umber-vintage-jade",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22813-cement-cle-reath-design-risguardo-roan-chestnut-umber-vintage-jade-24up.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-risguardo-roan-chestnut-umber-vintage-jade.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-045"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Army, Roan, Abyss + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-scagliola-army-roan-abyss-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22812-cement-cle-reath-design-scagliola-army-roan-abyss-chestnut-24up.jpg-2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-scagliola-army-roan-abyss-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-046"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Russet, Army, Vintage Jade + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-seraglio-russet-army-vintage-jade-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22807-cle-tile-reath-cement-russet-army-vtgjade-chestnut-24up-208722.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-seraglio-russet-army-vintage-jade-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-047"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Reath Design Oltrarno",
+  "color": "Army, Roan, Ikat + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-cle-reath-design-vicens-army-roan-ikat-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_AC22809-cement-cle-reath-design-vicens-army-roan-ikat-chestnut-24up.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-cle-reath-design-vicens-army-roan-ikat-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-048",
+   "LC-FT-CEM-038"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Metal + Leaf",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-fern-metal-leaf",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_a_c_ac10188sf_cle_tile_cement_artist_ericatanov_leaf_metal_leaf_4up_3000x2250_5_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-fern-metal-leaf.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-049",
+   "LC-FT-CEM-039"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Metal + Plaster",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-fern-metal-plaster-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_a_c_ac10188sf_cle_tile_cement_artist_ericatanov_leaf_metal_plaster_4up_3000x2250_2_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-fern-metal-plaster-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-050",
+   "LC-FT-CEM-040"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Fern",
+  "color": "Plaster + Taro",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-fern-plaster-taro",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_ac10203sf_cle_tile_cement_artist_ericatanov_leaf_plaster_taro_4up_3000x2250_2_1__1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-fern-plaster-taro.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-051"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Metal + Leaf",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-jacobsen-metal-leaf",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_a_c_ac10204sf_cle_tile_cement_artist_ericatanov_jacobson_metal_leaf_4up_3000x2250_3_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-jacobsen-metal-leaf.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-052"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Metal + Plaster",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-jacobsen-metal-plaster",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_ac10187sf_cle_tile_cement_artist_ericatanov_jacobson_metal_plaster_4up_3000x2250_2_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-jacobsen-metal-plaster.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-053"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Plaster + Taro",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cement-erica-tanov-jacobsen-plaster-taro",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_ac10202sf_cle_tile_cement_artist_ericatanov_jacobson_plaster_taro_4up_3000x2250_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-erica-tanov-jacobsen-plaster-taro.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-CEM-041"
+  ],
+  "brand": "Clé Tile",
+  "product": "Four Leaf Clover",
+  "color": "White + Metal",
+  "size": "8 x 8 in",
+  "price_per_sqft": 20.34,
+  "product_url": "https://www.cletile.com/products/cement-four-leaf-clover-white-metal-8x8",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_al_white_8x8_4up_overhead_main_3600x2400_c21640.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-four-leaf-clover-white-metal-8x8.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-054"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Moroccan 3 Fez Grande Matte",
+  "color": "Metal + White",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 13.77,
+  "product_url": "https://www.cletile.com/products/cement-metal-moroccan-3-fez-8x8",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_cement_moroccan_fez_metal_white_8x8_4up_overhead_main_3600x2400_c21644.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-metal-moroccan-3-fez-8x8.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-055"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Moroccan 3 Fez Grande Matte",
+  "color": "Black + White",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 20.34,
+  "product_url": "https://www.cletile.com/products/cement-moroccan-3-fez-8x8-black-white",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_cement_moroccan_3_fez_black_white_square_c25483-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-moroccan-3-fez-8x8-black-white.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-056"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Ruan Hoffmann Istanbul Wave Grande Matte",
+  "color": "Ale, Forest + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-ale-forest-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_AC10413-cle-tile-cement-artist-collection-ruan-hoffman-istanbul-wave-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-ale-forest-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-057"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Ruan Hoffmann Istanbul Wave Grande Matte",
+  "color": "Kelly, Leaf + Federal Blue",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-kelly-leaf-federal-blue",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_AC10406-cle-tile-cement-artist-collection-ruan-hoffman-istanbul-wave-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-kelly-leaf-federal-blue.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-058"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Ruan Hoffmann Istanbul Wave Grande Matte",
+  "color": "Paste, Chestnut + Charcoal",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-paste-chestnut-charcoal",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_AC10314-cle-tile-cement-artist-collection-ruan-hoffman-istanbul-wave-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-paste-chestnut-charcoal.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-059"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Ruan Hoffmann Istanbul Wave Grande Matte",
+  "color": "Paste, Mallard + Charcoal",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-paste-mallard-charcoal",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_AC10316-cle-tile-cement-artist-collection-ruan-hoffman-istanbul-wave-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-paste-mallard-charcoal.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-060"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Ruan Hoffmann Istanbul Wave Grande Matte",
+  "color": "Prune, Flame + Chestnut",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-prune-flame-chestnut",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_AC10407-cle-tile-cement-artist-collection-ruan-hoffman-istanbul-wave-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cement-ruan-hoffmann-postcards-from-myself-istanbul-wave-prune-flame-chestnut.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-030"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Alpaca Grey",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 25.26,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-alpaca-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0757-cle-lapidary-legacy-stout-subway-honed-alpaca-grey-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-alpaca-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-031"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Beige Travertine",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 25.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-beige-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0751-cle-lapidary-legacy-stout-subway-honed-beige-travertine-4up-3000-2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-beige-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-032"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Calacatta Gold",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 29.44,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-calacatta-gold",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_s20006-cle-tile-calacatta-gold-6x12-4up-3000x2250-1_70e77dde-fb01-48e1-8ff4-3b3434f07571.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-calacatta-gold.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-033"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Calacatta Viola",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 43.08,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-calacatta-viola",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_SV0007-cle-tile-calacatta-viola-6x12-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-calacatta-viola.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-034"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Carrara",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 21.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-carrara",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cl10008_cle_tile_carrara_6x12_4up_overhead_main_3000x2250_e6c1fc4f-4819-46ce-be6e-ee2f2deab1fc.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-carrara.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-035"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Galician Green",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 25.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-galician-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0761-cle-lapidary-legacy-stout-subway-honed-galician-green-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-galician-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-036"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Iberian Chocolate",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 24.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-iberian-chocolate",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0762-cle-lapidary-legacy-stout-subway-honed-iberian-chocolate-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-iberian-chocolate.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-037"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Jade Green",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 24.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-jade-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0755-cle-lapidary-legacy-stout-subway-honed-jade-green-4up-3000-2250-updated.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-jade-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-038"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Noir Fumé",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 21.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-noir-fume",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0759-cle-lapidary-legacy-stout-subway-honed-warm-black-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-noir-fume.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-039"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Red Travertine",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 25.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-red-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0752-cle-lapidary-legacy-stout-subway-honed-red-travertine-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-red-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-040"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Rojo Alicante",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 28.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-rojo-alicante",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0754-cle-lapidary-legacy-stout-subway-honed-rojo-alicante-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-rojo-alicante.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-041"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Rosina Veneto",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 35.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-rosina-veneto",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0756-cle-lapidary-legacy-stout-subway-honed-pink_grey-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-rosina-veneto.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-042"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Rosso Italiano",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 39.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-rosso-italiano",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0760-cle-lapidary-legacy-stout-subway-honed-rosso-italiano-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-rosso-italiano.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-043"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Thassos",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 45.06,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-thassos",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_t_h_th10005-cle-tile-stone-thassos-6x12-4up.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-thassos.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-044"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "Verde Marble",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 25.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-verde-marble",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0750-cle-lapidary-legacy-stout-subway-honed-verde-marble-4up-300x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-verde-marble.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-045"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "White Dolomite",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 42.82,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-white-dolomite",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_c_l_cle-tile-stone-dolomite-rectangle-6x12-4up-3.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-white-dolomite.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-046"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Banchina Stout Subway Honed",
+  "color": "White Limestone",
+  "size": "6\"x12\"x⅜\"",
+  "price_per_sqft": 24.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-banchina-stout-subway-honed-white-limestone",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0753-cle-lapidary-legacy-stout-subway-honed-white-limestone-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-banchina-stout-subway-honed-white-limestone.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-032"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Ange",
+  "size": "12 x 12 in",
+  "price_per_sqft": 25.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-ange",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_grand-place-cle-tile-stone-limestone-12x12-4up-ange.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-ange.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-033"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Arbor",
+  "size": "12 x 12 in",
+  "price_per_sqft": 20.25,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-arbor",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_g_r_grand-place-cle-tile-stone-limestone-12x12-4up-arbor.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-arbor.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-034"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Ceruse",
+  "size": "12 x 12 in",
+  "price_per_sqft": 24.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-ceruse",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_g_r_grand-place-cle-tile-stone-limestone-12x12-4up-ceruse.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-ceruse.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-035"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Chantilly",
+  "size": "12 x 12 in",
+  "price_per_sqft": 29.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-chantilly",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-atmos-12x12-4up-3000x2250-1copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-chantilly.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-036"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Cornet",
+  "size": "12 x 12 in",
+  "price_per_sqft": 24.25,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-cornet",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_g_r_grand-place-cle-tile-stone-limestone-12x12-4up-cornet.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-cornet.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-037"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Crémant",
+  "size": "12 x 12 in",
+  "price_per_sqft": 22.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-cremant",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-cremant-12x12-4up-3000x2250-1copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-cremant.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-038"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Hermitage",
+  "size": "12 x 12 in",
+  "price_per_sqft": 24.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-hermitage",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_g_r_grand-place-cle-tile-stone-limestone-12x12-4up-hermitage.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-hermitage.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-039"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Loupe",
+  "size": "12 x 12 in",
+  "price_per_sqft": 25.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-loupe",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_grand-place-cle-tile-stone-limestone-12x12-4up-loupe.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-loupe.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-040"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Marfil",
+  "size": "12 x 12 in",
+  "price_per_sqft": 28.25,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-marfil",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_grand-place-cle-tile-stone-limestone-12x12-4up-marfil.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-marfil.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-041"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Tanner",
+  "size": "12 x 12 in",
+  "price_per_sqft": 17.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-tanner",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_grand-place-cle-tile-stone-limestone-12x12-4up-tanner.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-place-limestone-grand-stout-honed-tanner.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-042"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Alpaca Grey",
+  "size": "12 x 12 in",
+  "price_per_sqft": 39.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-alpaca-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0119-cle-tile-stone-lapidary-12x12-4up-alpaca-grey-3000x2250-300dpi-1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-alpaca-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-043"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Calacatta Gold",
+  "size": "12 x 12 in",
+  "price_per_sqft": 35.48,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-calacatta-gold",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_s20000-cle-tile-calacatta-gold-12x12-4up-3000x2250-1_5b31f9b8-289d-4dae-8390-9ebdfe2370f3.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-calacatta-gold.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-044"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Calacatta Viola",
+  "size": "12 x 12 in",
+  "price_per_sqft": 51.7,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-calacatta-viola",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_SV0001-cle-tile-calacatta-viola-12x12-square-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-calacatta-viola.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-045"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Carrara",
+  "size": "12 x 12 in",
+  "price_per_sqft": 23.1,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-carrara",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_CL10020-cle-tile-stone-carrara-12x12-4up-3000x2250-1_af6239e9-4f85-4871-9fd1-51b212989194.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-carrara.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-046"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Cashmere Grey",
+  "size": "12 x 12 in",
+  "price_per_sqft": 32.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-cashmere-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0117-cle-tile-stone-lapidary-12x12-4up-cashmere-grey-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-cashmere-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-047"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Galician Green",
+  "size": "12 x 12 in",
+  "price_per_sqft": 28.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-galician-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0225-cle-tile-stone-lapidary-12x12-4up-rainforest-green-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-galician-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-048"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Iberian Chocolate",
+  "size": "12 x 12 in",
+  "price_per_sqft": 24.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-iberian-chocolate",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0226-cle-tile-stone-lapidary-12x12-4up-iberian-chocolate-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-iberian-chocolate.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-049"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Jade Green",
+  "size": "12 x 12 in",
+  "price_per_sqft": 38.75,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-jade-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0111-cle-tile-stone-lapidary-12x12-4up-jade-green-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-jade-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-050"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Noir Fumé",
+  "size": "12 x 12 in",
+  "price_per_sqft": 28.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-noir-fume",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0112-cle-tile-stone-lapidary-12x12-4up-warm-black-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-noir-fume.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-051"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Rojo Alicante",
+  "size": "12 x 12 in",
+  "price_per_sqft": 37.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-rojo-alicante",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0120-cle-tile-stone-lapidary-12x12-4up-rojo-alicante-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-rojo-alicante.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-052"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Rosina Veneto",
+  "size": "12 x 12 in",
+  "price_per_sqft": 46.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-rosina-veneto",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0118-cle-tile-stone-lapidary-12x12-4up-pink-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-rosina-veneto.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-053"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Rosso Italiano",
+  "size": "12 x 12 in",
+  "price_per_sqft": 52.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-rosso-italiano",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0224-cle-tile-stone-lapidary-12x12-4up-red-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-rosso-italiano.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-054"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "Thassos",
+  "size": "12 x 12 in",
+  "price_per_sqft": 39.6,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-thassos",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_TH10011-cle-tile-stone-thassos-12x12-4up-3000x2250-1_2d7c6b41-1310-436e-ac19-921d25d1481e.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-thassos.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-055"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "White Dolomite",
+  "size": "12 x 12 in",
+  "price_per_sqft": 37.38,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-white-dolomite",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_dm10011-cle-tile-stone-dolomite-12x12-4up-3000x2250-1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-white-dolomite.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-FT-STN-056"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Grand Place Limestone Cartwright",
+  "color": "White Limestone",
+  "size": "12 x 12 in",
+  "price_per_sqft": 34.75,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-grandioso-grand-stout-honed-white-limestone",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0113-cle-tile-stone-lapidary-12x12-4up-white-limestone-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-grandioso-grand-stout-honed-white-limestone.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-047"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Alpaca Grey",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 99.24,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-alpaca-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-alpaca-grey-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-alpaca-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-048"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Beige Travertine",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 101.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-beige-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0450-cle-tile-stone-lapidary-concave-beige-travertine-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-beige-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-049"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Calacatta Gold",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 106.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-calacatta-gold",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0445-cle-tile-stone-lapidary-concave-thassos-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-calacatta-gold.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-050"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Calacatta Viola",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 198.96,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-calacatta-viola",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0446-cle-tile-stone-lapidary-concave-calacatta-viola-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-calacatta-viola.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-051"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Carrara",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 91.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-carrara",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0443-cle-tile-stone-lapidary-concave-carrara-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-carrara.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-052"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Cashmere Grey",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 91.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-cashmere-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-cashmere-grey-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-cashmere-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-053"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Galician Green",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 109.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-galician-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-galician-green-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-galician-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-054"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Iberian Chocolate",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 99.24,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-iberian-chocolate",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-iberian-chocolate-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-iberian-chocolate.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-055"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Jade Green",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 94.0,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-jade-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0449-cle-tile-stone-lapidary-concave-jade-green-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-jade-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-056"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Red Travertine",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 91.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-red-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0451-cle-tile-stone-lapidary-concave-red-travertine-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-red-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-057"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Rojo Alicante",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 96.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-rojo-alicante",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0447-cle-tile-stone-lapidary-concave-rojo-alicante-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-rojo-alicante.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-058"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Rosina Veneto",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 104.76,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-rosina-veneto",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-pink-grey-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-rosina-veneto.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-059"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Rosso Italiano",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 118.24,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-rosso-italiano",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-concave-rosso-italiano-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-rosso-italiano.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-060"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Thassos",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 99.24,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-thassos",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0445-cle-tile-stone-lapidary-concave-thassos-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-thassos.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-061"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "Verde Marble",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 91.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-verde-marble",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0448-cle-tile-stone-lapidary-concave-verde-marble-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-verde-marble.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-062"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Incasso Stout Honed",
+  "color": "White Limestone",
+  "size": "6\"x6\"x⅝\"",
+  "price_per_sqft": 84.52,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-incasso-stout-honed-white-limestone",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0452-cle-tile-stone-lapidary-concave-white-limestone-4up-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-incasso-stout-honed-white-limestone.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-063"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Alpaca Grey",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 23.49,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-alpaca-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0731-cle-lapidary-legacy-petite-honed-alpaca-grey-4up-3000x2250px.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-alpaca-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-064"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Beige Travertine",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 26.19,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-beige-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0725-cle-lapidary-legacy-petite-honed-beigetravertine-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-beige-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-065"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Calacatta Gold",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 20.88,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-calacatta-gold",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_s20002-cle-tile-calacatta-gold-4x4-9up-3000x2250-1_0c599ef6-ebb2-4554-a8d1-e4e9fe666a7e.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-calacatta-gold.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-066"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Calacatta Viola",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 37.17,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-calacatta-viola",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_SV0003-cle-tile-calacatta-viola-4x4-4up-3000x3000.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-calacatta-viola.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-067"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Carrara",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-carrara",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cl10009_cle_tile_carrara_square_4x4_9up_overhead_main_3000x2250_f8272256-6cc6-417b-83ba-67d7c61e4600.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-carrara.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-068"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Cashmere Grey",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 23.49,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-cashmere-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0732-cle-lapidary-legacy-petite-honed-cashmere-grey-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-cashmere-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-069"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Galician Green",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 23.49,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-galician-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0735-cle-lapidary-legacy-petite-honed-galician-green-4up-3000x2250px.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-galician-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-070"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Iberian Chocolate",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 22.95,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-iberian-chocolate",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0736-cle-lapidary-legacy-petite-honed-iberianchocolate-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-iberian-chocolate.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-071"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Jade Green",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 25.29,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-jade-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0729-cle-lapidary-legacy-petite-honed-jade-green-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-jade-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-072"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Noir Fumé",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 31.5,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-noir-fume",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0733-cle-lapidary-legacy-petite-honed-warm-black-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-noir-fume.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-073"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Red Travertine",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 26.19,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-red-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0726-cle-lapidary-legacy-petite-honed-red-travertine-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-red-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-074"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Rojo Alicante",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 28.98,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-rojo-alicante",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0728-cle-lapidary-legacy-petite-honed-rojo-alicante-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-rojo-alicante.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-075"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Rosina Veneto",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 31.23,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-rosina-veneto",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0730-cle-lapidary-legacy-petite-honed-pink_grey-4up-3000x2250px.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-rosina-veneto.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-076"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Thassos",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 45.09,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-thassos",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail__t_h_th10000_cle_tile_stone_thassos_4x4_900x900_36d1b67d-6287-4f2b-8870-23f70235a7af.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-thassos.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-077"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "Verde Marble",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 26.19,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-verde-marble",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0724-cle-lapidary-legacy-petite-honed-verde-marble-4up-3000-2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-verde-marble.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-078"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "White Dolomite",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 43.29,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-white-dolomite",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_c_l_cle-tile-stone-dolomite-4x4-9up_copy_1_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-white-dolomite.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-079"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Pietrelle Petite Honed",
+  "color": "White Limestone",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 23.94,
+  "product_url": "https://www.cletile.com/products/cle-lapidary-pietrelle-petite-honed-white-limestone",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0727-cle-lapidary-legacy-petite-honed-white-limestone-4up-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/cle-lapidary-pietrelle-petite-honed-white-limestone.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CER-030"
+  ],
+  "brand": "Clé Tile",
+  "product": "Giovanni De Maio + Cristina Celestino Chloris Greca Grande Matte",
+  "color": "Giada",
+  "size": "8\"x8\"x¼\"",
+  "price_per_sqft": 121.75,
+  "product_url": "https://www.cletile.com/products/giovanni-de-maio-cristina-celestino-chloris-greca-giada",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_GM0012-cle-cement-giovanni-de-maio-Chloris-Greca-Giada-8x8-4up-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/giovanni-de-maio-cristina-celestino-chloris-greca-giada.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CER-031"
+  ],
+  "brand": "Clé Tile",
+  "product": "Giovanni De Maio + Cristina Celestino Peplo Terminale Sx Grande Matte",
+  "color": "Perla",
+  "size": "8\"x8\"x¼\"",
+  "price_per_sqft": 121.75,
+  "product_url": "https://www.cletile.com/products/giovanni-de-maio-cristina-celestino-peplo-terminale-sx-perla",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_GM0009-cle-cement-giovanni-de-maio-Peplo-Terminale-SX-Perla-8x8-4up-3-thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/giovanni-de-maio-cristina-celestino-peplo-terminale-sx-perla.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-080"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Alpaca Grey",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 48.5,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-alpaca-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0434-cle-tile-stone-lapidary-fluted-sheet-cashmere-grey-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-alpaca-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-081"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Beige Travertine",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 40.75,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-beige-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0425-cle-tile-stone-lapidary-fluted-sheet-beige-travertine-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-beige-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-082"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Calacatta Gold",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 51.0,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-calacatta-gold",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0424-cle-tile-stone-lapidary-fluted-sheet-calcatta-gold-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-calacatta-gold.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-083"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Calacatta Viola",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 119.25,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-calacatta-viola",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0427-cle-tile-stone-lapidary-fluted-sheet-calcatta-viola-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-calacatta-viola.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-084"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Carrara",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 41.75,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-carrara",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0423-cle-tile-stone-lapidary-fluted-sheet-carrara-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-carrara.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-085"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Cashmere Grey",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 48.5,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-cashmere-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0433-cle-tile-stone-lapidary-fluted-sheet-alpaca-grey-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-cashmere-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-086"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Galician Green",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 56.75,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-galician-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0437-cle-tile-stone-lapidary-fluted-sheet-galician-green-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-galician-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-087"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Jade Green",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 51.0,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-jade-green",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0429-cle-tile-stone-lapidary-fluted-sheet-jade-green-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-jade-green.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-088"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Rosina Veneto",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 48.75,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-pink-grey",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-lapidary-fluted-4up-pink-3000x2250.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-pink-grey.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-089"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Red Travertine",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 44.15,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-red-travertine",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0431-cle-tile-stone-lapidary-fluted-sheet-red-travertine-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-red-travertine.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-090"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Rojo Alicante",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 56.75,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-rojo-alicante",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-stone-lapidary-fluted-sheet-rojo-alicante-layout-3000x2250-300dpi1copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-rojo-alicante.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-091"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Rosso Italiano",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 53.25,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-rosso-italiano",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0438-cle-tile-stone-lapidary-fluted-sheet-rosso-italiano-layout-3000x2250-300dpicopy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-rosso-italiano.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-092"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Thassos",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 49.25,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-thassos",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0428-cle-tile-stone-lapidary-fluted-sheet-thassos-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-thassos.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-093"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Verde Marble",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 42.0,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-verde-marble",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0230-cle-tile-stone-lapidary-fluted-sheet-verde-marble-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-verde-marble.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-094"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "Noir Fumé",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 44.15,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-warm-black",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_LP0435-cle-tile-stone-lapidary-fluted-sheet-warm-black-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-warm-black.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-STN-095"
+  ],
+  "brand": "Clé Tile",
+  "product": "Lapidary Lavorato Apiari Honed",
+  "color": "White Limestone",
+  "size": "1¼\"x6\"x½\"",
+  "price_per_sqft": 38.5,
+  "product_url": "https://www.cletile.com/products/lapidary-fluted-sheet-white-limestone",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/comp_uses-LP0430-cle-tile-stone-lapidary-fluted-sheet-white-limestone-layout-3000x2250-300dpi.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/lapidary-fluted-sheet-white-limestone.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-CEM-061"
+  ],
+  "brand": "Clé Tile",
+  "product": "Cement Clé + Erica Tanov Jacobsen",
+  "color": "Plaster + Black",
+  "size": "8\"x8\"x⅝\"",
+  "price_per_sqft": 21.51,
+  "product_url": "https://www.cletile.com/products/moroccan-encaustic-artist-cement-collection-erica-tanov-jacobsen",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_ac10185sf_cle_tile_jacobsen_black_plaster_8x8_4up_main_3000x2250_ac10185_new.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/moroccan-encaustic-artist-cement-collection-erica-tanov-jacobsen.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-031"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Moroccan Sea Salt",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/moroccan-sea-salt-2x2",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_Seasalt_16up_overhead_main_3000x2250_81a10b2c-41ad-425b-844d-8774c75c05e3.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/moroccan-sea-salt-2x2.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-032"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Ancient Sea",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-ancient-sea-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10026_-_cle_tile_zellige_ancientsea_2x2_4up_overhead_main_3000x2400_2__2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-ancient-sea-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-033"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Ancient Sea",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-ancient-sea-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_ancientsea_overhead_main_3000x2250_7bac49f1-bbbf-451e-8b19-76f1fc188038.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-ancient-sea-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-034"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Argan Brown",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-argan-brown-hex",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_argonbrown_10up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-argan-brown-hex.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-035"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Argan Brown",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-argan-brown-square-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_img_cle_tile_zellige_4x4_argonbrown_9up_overhead_main_3000x2250_246b7052-a641-4442-8c04-27bb37fc5299.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-argan-brown-square-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-036"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Argan Brown",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-argan-brown-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_argonbrown_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-argan-brown-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-037"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Battled Armor",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-battle-armor-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_battlearmor_10up_overhead_main_3000x2250_36229708-a637-4dd1-a257-1df0d835c2c9.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-battle-armor-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-038"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Battled Armor",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-battle-armor-square-4x4",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_battlearmor_9up_overhead_main_3000x2250_5b6b00d3-035f-450b-ad90-a6277e2005fe.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-battle-armor-square-4x4.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-039"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Battled Armor",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-battled-armor-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z11026_-_cle_tile_zellige_battlearmor_2x2_4up_overhead_main_3000x2400_0221_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-battled-armor-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-040"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Blushing Mistress",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-blushing-mistress-2x2-square-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_blushingmistress_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-blushing-mistress-2x2-square-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-041"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Blushing Mistress",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-blushing-mistress-2x6-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_blushingmistress_overhead_main_3000x2250_e3b233ab-37ee-437f-9439-9fcfb2b73c75.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-blushing-mistress-2x6-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-042"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Cindered Olive",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-cindered-olive-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_cinderedolive_16up_overhead_main_3000x2250-auditcopy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-cindered-olive-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-043"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Cindered Olive",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-cindered-olive-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_cinderedolive_9up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-cindered-olive-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-044"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Cindered Olive",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-cindered-olive-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_cinderedolive_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-cindered-olive-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-045"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Cindered Olive",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-cindered-olive-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_scinderedolive_10up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-cindered-olive-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-046"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Classic Cerulean",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-classic-cerulean-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10098_-_cle_tile_zellige_cerulean_4x4_4up_single_overhead_main_3000x2400_1_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-classic-cerulean-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-047"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Classic Cerulean",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-classic-cerulean-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10099_-_cle_tile_zellige_cerulean_2x6_4up_overhead_main_3000x2400_1_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-classic-cerulean-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-048"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Classic Cerulean",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-classic-cerulean-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10096_-_cle_tile_zellige_cerulean_2x2_4up_overhead_main_3000x2400_1__2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-classic-cerulean-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-049"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Fallen Citrus",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-fallen-citrus-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10018_cle_tile_zellige_fallencitrus_9up_overhead_main_3600x2400_5e27171d-58fb-4869-a526-8b633085bacd.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fallen-citrus-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-050"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Fallen Citrus",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-fallen-citrus-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10019_-_cle_tile_zellige_fallencitrus_2x6_4up_overhead_main_3000x2400_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fallen-citrus-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-051"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Fallen Citrus",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-fallen-citrus-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_fallencitrus_16up_overhead_main_3000x2250-audit_3820630a-f0bf-4bd5-b037-be64eb964896.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fallen-citrus-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-052"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Fired Opal",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-fired-opal-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10006_-_cle_tile_zellige_firedopal_2x2_4up_overhead_main_3000x2400_1__2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fired-opal-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-053"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Fired Opal",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-fired-opal-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_firedopal_9up_overhead_main_3000x2250_5a2295ea-f7b0-492c-9baf-196d72c3b4c4.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fired-opal-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-054"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Fired Opal",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-fired-opal-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10009_-_cle_tile_zellige_firedopal_2x6_4up_overhead_main_3000x2400_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fired-opal-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-055"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Fired Opal",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-fired-opal-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_firedopal_10up_overhead_main_3000x2250_09356a67-1113-4c56-93a4-3049c192a5f0.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-fired-opal-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-056"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Forgotten Turquoise",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-forgotten-turquoise-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10030_-_cle_tile_zellige_forgottenturquoise_2x2_4up_overhead_main_3000x2400_5_1__2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-forgotten-turquoise-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-057"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Forgotten Turquoise",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-forgotten-turquoise-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_forgottenturquoise_9up_overhead_main_3000x2250_e86e1320-a5f7-4bb2-b3fa-a573f37466fa.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-forgotten-turquoise-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-058"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Forgotten Turquoise",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-forgotten-turquoise-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10034_-_cle_tile_zellige_forgottenturquoise_2x6_4up_overhead_main_3000x2400_5_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-forgotten-turquoise-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-059"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Forgotten Turquoise",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-forgotten-turquoise-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_forgottenturquoise_10up_overhead_main_3000x2250_ae231197-fedd-4cc4-b1cf-e796cf3ef685.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-forgotten-turquoise-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-060"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Blushing Mistress",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-glazed-tile-blushing-mistress-4x4",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_blushingmistress_9up_overhead_main_3000x2250_705cf245-241b-41ed-bb85-f8ad4dc28b75.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-glazed-tile-blushing-mistress-4x4.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-061"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "(24k) Gold",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 687.47,
+  "product_url": "https://www.cletile.com/products/zellige-gold-2x6-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_cle-tile-terracotta-zellige-gold-2x6-rectangle-product-singlethumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-gold-2x6-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-062"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "(24k) Gold",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 698.31,
+  "product_url": "https://www.cletile.com/products/zellige-gold-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail__z_2_z21183_cle_tile_terracotta_zellige_gold_square_4x4_single_aerial_thumbnail.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-gold-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-063"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Golden Henna",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-golden-henna-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_goldenhenna_16up_overhead_main_3000x2250-auditcopy_c8ca8f65-8949-46c9-aeb2-689997360b0d.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-golden-henna-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-064"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Golden Henna",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-golden-henna-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_goldenhenna_9up_overhead_main_3000x2250_a0d1ba2e-c398-4f3b-84bd-2cbce7991826.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-golden-henna-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-065"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Golden Henna",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-golden-henna-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10024_-_cle_tile_zellige_goldenhenna_2x6_4up_overhead_main_3000x2400_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-golden-henna-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-066"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Golden Henna",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-golden-henna-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_goldenhenna_10up_overhead_main_3000x2250_c53f66af-595b-41f8-b712-f8beff02d97a.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-golden-henna-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-067"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Indian Saffron",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-indian-saffron-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10001_-_cle_tile_zellige_indiansaffron_2x2_4up_overhead_main_3000x2400_2_2__2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-indian-saffron-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-068"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Indian Saffron",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-indian-saffron-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10003_cle_tile_zellige_indiansaffron_4x4_4up_single_overhead_main_3000x2400_7e175ea2-e0b2-4d06-b4fd-da885c2e97f3.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-indian-saffron-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-069"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Indian Saffron",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-indian-saffron-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10004_-_cle_tile_zellige_indiansaffron_2x6_4up_overhead_main_3600x2400_3_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-indian-saffron-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-070"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Indian Saffron",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-indian-saffron-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_indiansaffron_10up_overhead_main_3000x2250_1640b616-8355-4387-b4a3-e436888e2adf.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-indian-saffron-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-071"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Midnight Port",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-midnight-port-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_midnightport_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-midnight-port-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-072"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Midnight Port",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-midnight-port-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_midnightport_9up_overhead_main_3000x2250_5b532582-11a4-4d43-82fa-d59a0da921e6.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-midnight-port-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-073"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Midnight Port",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-midnight-port-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z11007_-_cle_tile_zellige_midnightport_2x6_4up_overhead_main_3000x2400_2_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-midnight-port-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-074"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Midnight Port",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-midnight-port-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_midnightport_10up_overhead_main_3000x2250_c7833354-4054-4f35-90a1-10dc6c89bfac.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-midnight-port-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-075"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Moroccan Sea Salt",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-moroccan-sea-salt-2x6-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_2_z21243_-_cle_tile_zellige_seasalt_2x6_4up_overhead_main_3000x2400_1_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-moroccan-sea-salt-2x6-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-076"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Moroccan Sea Salt",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-moroccan-sea-salt-3-5-hex",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_seasalt_10up_overhead_main_3000x2250_5864a062-cf40-40e3-a5ad-dfe72e4fd162.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-moroccan-sea-salt-3-5-hex.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-077"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Moroccan Sea Salt",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-moroccan-sea-salt-4x4",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_2_z21242_-_cle_tile_zellige_seasalt_4x4_4up_single_overhead_main_3000x2400_1_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-moroccan-sea-salt-4x4.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-078"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Palace Red",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-palace-red-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_palacered_9up_overhead_main_3000x2250_75dfa383-42cb-4e54-bbd6-f606695ef98a.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-palace-red-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-079"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Palace Red",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-palace-red-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_palacered_overhead_main_3000x2250_d69a2b24-8ab9-403c-af55-0045f4b0d7ef.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-palace-red-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-080"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Palace Red",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-palace-red-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_palacered_16up_overhead_main_3000x2250-auditcopy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-palace-red-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-081"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Parched Vellum",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-parched-vellum-bejmat-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_parchedvellum_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-parched-vellum-bejmat-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-082"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Parched Vellum",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-parched-vellum-hex",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_parchedvellum_10up_overhead_main_3000x2250copy2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-parched-vellum-hex.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-083"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Parched Vellum",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-parched-vellum-square-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_parchedvellum_9up_overhead_main_3000x2250copy2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-parched-vellum-square-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-084"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Parched Vellum",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-parched-vellum-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_parchedvellum_16up_overhead_main_3000x2250-auditcopy2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-parched-vellum-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-085"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Pending Storm",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-pending-storm-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_pendingstorm_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-pending-storm-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-086"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Pending Storm",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-pending-storm-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_pendingstorm_9up_overhead_main_3000x2250_65ee1d50-d7f1-470f-aff3-a863e8b592b8.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-pending-storm-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-087"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Pending Storm",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-pending-storm-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_pendingstorm_overhead_main_3000x2250_01755db6-b278-4116-a2fb-c4dcce80cd1b.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-pending-storm-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-088"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Pending Storm",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-pending-storm-hex",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_pendingstorm_10up_overhead_main_3000x2250_6baec0f4-3ccf-4753-ac07-13e266357f4f.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-pending-storm-hex.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-089"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Riverbed",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-riverbed-2x2-made-to-order",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z11023_-_copy_of_cle_tile_riverbed_2x2_4up_overhead_main_3000x2400_00_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-riverbed-2x2-made-to-order.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-090"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Riverbed",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-riverbed-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_riverbed_9up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-riverbed-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-091"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Riverbed",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-riverbed-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z11024_-_cle_tile_zellige_riverbed_2x6_4up_overhead_main_3000x2400_00.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-riverbed-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-092"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Riverbed",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-riverbed-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_riverbed_10up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-riverbed-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-093"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Scribes' Ink",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-scribes-ink-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_scribesink_9up_overhead_main_3000x2250_1a688920-1f1d-4b2b-ad9f-3c5724b45c94.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-scribes-ink-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-094"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Scribes' Ink",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-scribes-ink-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_scribesink_overhead_main_3000x2250_498aae26-0882-4d0b-b39b-a2fb56f90065.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-scribes-ink-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-095"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Scribes' Ink",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-scribes-ink-gloss-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10061_-_cle_tile_zellige_scribesink_2x2_4up_overhead_main_3000x2400_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-scribes-ink-gloss-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-096"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Scribes' Ink",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-scribes-ink-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_scribesink_10up_overhead_main_3000x2250_b47ec53b-18b1-48b7-bcaa-778cbdcc06aa.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-scribes-ink-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-097"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Secret Lagoon",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-secret-lagoon-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_secretlagoon_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-secret-lagoon-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-098"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Secret Lagoon",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-secret-lagoon-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10044_-_cle_tile_zellige_secretlagoon_2x6_4up_overhead_main_3000x2400_5.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-secret-lagoon-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-099"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Secret Lagoon",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-secret-lagoon-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_secretlagoon_10up_overhead_main_3000x2250_4c11ecff-1ce9-4acd-b64f-1aa52fe59470.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-secret-lagoon-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-100"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Secret Lagoon",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-secret-lagoon-zellige-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_secretlagoon_9up_overhead_main_3000x2250_aa780a8f-ac6a-43a0-a136-822e3c395519.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-secret-lagoon-zellige-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-101"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Shattered Pearl",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-shattered-pearl-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10086_-_cle_tile_zellige_shatteredpearl_2x2_4up_overhead_main_3000x2400_2_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-shattered-pearl-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-102"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Shattered Pearl",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-shattered-pearl-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10088_-_cle_tile_zellige_shatteredpearl_4x4_4up_single_overhead_main_3000x2400_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-shattered-pearl-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-103"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Shattered Pearl",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-shattered-pearl-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10089_-_cle_tile_zellige_shatteredpearl_2x6_4up_overhead_main_3000x2400_0cb96637-22be-42cb-b45f-038e39b1678d.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-shattered-pearl-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-104"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Shattered Pearl",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-shattered-pearl-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_shatteredpearl_10up_overhead_main_3000x2250_70dbc0b8-c453-4998-84d5-aeb48193009d.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-shattered-pearl-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-105"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Sky Bloom",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-sky-bloom-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10068_cle_tile_zellige_skybloom_4x4_4up_single_overhead_main_3000x2400-recovered.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-sky-bloom-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-106"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Sky Bloom",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-sky-bloom-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10069_-_cle_tile_zellige_skybloom_2x6_4up_overhead_main_3000x2400_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-sky-bloom-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-107"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Sky Bloom",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-sky-bloom-unmounted-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_skybloom_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-sky-bloom-unmounted-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-108"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Tarnished Silver",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-tarnished-silver-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z10071_-_cle_tile_zellige_tarnishedsilver_2x2_4up_overhead_main_3000x2400_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tarnished-silver-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-109"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Tarnished Silver",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-tarnished-silver-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_tarnishedsilver_9up_overhead_main_3000x2250_ad32cb84-01d0-4b9a-88c5-7f059f04f875.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tarnished-silver-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-110"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Tarnished Silver",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-tarnished-silver-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_tarnishedsilver_overhead_main_3000x2250_62af5094-2a68-4fb3-bf6c-e0e72995eed6.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tarnished-silver-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-111"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Tea Ceremony",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-tea-ceremony-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_teaceremony_16up_overhead_main_3000x2250_6f08a892-2f3a-44eb-aac3-4b5cc5d7bcda.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tea-ceremony-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-112"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Tea Ceremony",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-tea-ceremony-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_teaceremony_10up_overhead_main_3000x2250_2e378da6-eef8-4e7b-9970-d76f47a8515a.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tea-ceremony-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-113"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Tempered Steel",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-tempered-steel-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_temperedsteel_16up_overhead_main_3000x2250-audit.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tempered-steel-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-114"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Tempered Steel",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-tempered-steel-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z11031_-_cle_tile_zellige_temperedsteel_4x4_4up_single_overhead_main_3000x2400_3_1.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tempered-steel-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-115"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Tempered Steel",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-tempered-steel-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z11030_-_cle_tile_zellige_temperedsteel_2x6_4up_overhead_main_3000x2400_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tempered-steel-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-116"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Tempered Steel",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-tempered-steel-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z12001_-_cle_tile_zellige_temperedsteel_hex_10up_overhead_main_3000x2400_3.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-tempered-steel-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-117"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Ancient Sea",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-ancient-sea-square-4x4",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_ancientsea_9up_overhead_main_3000x2250_0aa925ee-d318-46e2-93cf-8b86dcf4f0dd.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-ancient-sea-square-4x4.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-118"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Sky Bloom",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-sky-bloom-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_skybloom_10up_overhead_main_3000x2250_588ef97b-3855-4f03-83d6-964605c8b4d2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-sky-bloom-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-119"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Tea Ceremony",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-tea-ceremony-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_teaceremony_9up_overhead_main_3000x2250_b3bff51f-03b4-4303-9e28-0f28278aa2ff.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-tea-ceremony-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-120"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Tea Ceremony",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-tea-ceremony-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_teaceremony_overhead_main_3000x2250_recolor_product_image_20260915.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-tea-ceremony-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-121"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Vintage Rose",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-vintage-rose-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_Z10013-cle-tile-zellige-vintagerose-4x4-4up-single-overhead-main-20241.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-vintage-rose-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-122"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Vintage Rose",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-vintage-rose-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_Z11024-cle-tile-zellige-vintagerose-2x6-4up-overhead-main-20242.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-vintage-rose-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-123"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Vintage Rose",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-vintage-rose-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle-tile-zellige-hex-vintagerose-10up-overhead-main-2024.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-vintage-rose-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-124"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Vintage Rose",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-vintage-rose-unmounted-square-2x2",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_Z10011-cle-tile-zellige-vintagerose-16up-overhead-main-2024.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-vintage-rose-unmounted-square-2x2.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-125"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Weathered White",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-weathered-white-2x6",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z10079_-_cle_tile_zellige_weatheredwhite_2x6_4up_overhead_main_3000x2400_5_2.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-weathered-white-2x6.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-126"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Weathered White",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-terracotta-weathered-white-4x4-3",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_weatheredwhite_9up_overhead_main_3000x2250_d9f50790-3d83-4d89-92ab-ccf8e95afa55.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-terracotta-weathered-white-4x4-3.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-127"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Pixies Unmounted Gloss",
+  "color": "Vesper Sands",
+  "size": "2\"x2\"x⅜\"",
+  "price_per_sqft": 33.12,
+  "product_url": "https://www.cletile.com/products/zellige-unmounted-vesper-sands-2x2-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_vespersands_16up_overhead_main_3000x2250-auditcopy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-unmounted-vesper-sands-2x2-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-128"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Petite Gloss",
+  "color": "Vesper Sands",
+  "size": "4\"x4\"x⅜\"",
+  "price_per_sqft": 21.33,
+  "product_url": "https://www.cletile.com/products/zellige-vesper-sands-4x4-square",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_4x4_vespersands_9up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-vesper-sands-4x4-square.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-129"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Vesper Sands",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-vesper-sands-bejmat",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_2x6_12up_vespersands_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-vesper-sands-bejmat.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-130"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Vesper Sands",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-vesper-sands-hexagon",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_vespersands_10up_overhead_main_3000x2250copy.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-vesper-sands-hexagon.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-131"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Hex Gloss",
+  "color": "Weathered White",
+  "size": "3½\"x4\"x⅜\"",
+  "price_per_sqft": 36.12,
+  "product_url": "https://www.cletile.com/products/zellige-weathered-white-hex-1",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_cle_tile_zellige_hex_weatheredwhite_10up_overhead_main_3000x2250_ae674901-81c7-4ff0-aefd-262772a6f236.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-weathered-white-hex-1.jpg",
+  "collected": "2026-11-14"
+ },
+ {
+  "codes": [
+   "LC-WT-ZEL-132"
+  ],
+  "brand": "Clé Tile",
+  "product": "Zellige Baguette Gloss",
+  "color": "Battled Armor",
+  "size": "2\"x6\"x¾\"",
+  "price_per_sqft": 22.03,
+  "product_url": "https://www.cletile.com/products/zellige-zellige-terracotta-battle-armor-bejmat-subway",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/img_z_1_z11027_cle_tile_zellige_battlearmor_2x6_4up_overhead_main_3000x2400_0221.jpg",
+  "swatch_method": "Clé's own overhead photo (4-up, 9-up or more), cropped to a square inside the tile field; no rendering",
+  "repo_file": "photos/cle-colorways/zellige-zellige-terracotta-battle-armor-bejmat-subway.jpg",
+  "collected": "2026-11-14"
+ }
+]
