@@ -4123,9 +4123,9 @@
   "product_url": "https://www.riadtile.com/products/belgian-black-terracotta-tile-sticks-mosaic",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0864/9418/3738/files/Black_Terracotta_Sticks_Mosaic_Tile_1x8-Riad_Tile-1.jpg?v=1783042010",
   "source": "Shopify product feed",
-  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "swatch_method": "inner frac=0.7",
   "repo_file": "photos/lc-wt-ter-021.jpg",
-  "collected": "2026-11-14"
+  "collected": "2026-11-09"
  },
  {
   "code": "LC-WT-TER-022",
@@ -4146,9 +4146,9 @@
   "product_url": "https://www.riadtile.com/products/belgian-black-terracotta-tile-star-cross",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0864/9418/3738/files/BlackTerracottaStarandCrossGroup.jpg?v=1759432233",
   "source": "Shopify product feed",
-  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "swatch_method": "inner frac=0.4",
   "repo_file": "photos/lc-wt-ter-022.jpg",
-  "collected": "2026-11-14"
+  "collected": "2026-11-09"
  },
  {
   "code": "LC-WT-TER-023",
@@ -4169,9 +4169,9 @@
   "product_url": "https://www.riadtile.com/products/terracotta-red-2x6-tile",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0864/9418/3738/files/RD-TCOTTA-26_01.jpg?v=1790965382",
   "source": "Shopify product feed",
-  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "swatch_method": "inner frac=0.75",
   "repo_file": "photos/lc-wt-ter-023.jpg",
-  "collected": "2026-11-14"
+  "collected": "2026-11-09"
  },
  {
   "code": "LC-WT-TER-024",
@@ -4192,9 +4192,9 @@
   "product_url": "https://www.riadtile.com/products/terracotta-tile-4-hexagon",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0864/9418/3738/files/Terracotta_4_Hex_Group.jpg?v=1726241589",
   "source": "Shopify product feed",
-  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "swatch_method": "inner frac=0.4",
   "repo_file": "photos/lc-wt-ter-024.jpg",
-  "collected": "2026-11-14"
+  "collected": "2026-11-09"
  },
  {
   "code": "LC-WT-TER-025",
@@ -4215,9 +4215,9 @@
   "product_url": "https://www.riadtile.com/products/terracotta-tile-star-cross",
   "image_source_url": "https://cdn.shopify.com/s/files/1/0864/9418/3738/files/TerracottaStarandCrossgroup.jpg?v=1773419780",
   "source": "Shopify product feed",
-  "swatch_method": "laid out to spec (Nov 14, 2026): running bond 2x6, 12x12 in",
+  "swatch_method": "inner frac=0.4",
   "repo_file": "photos/lc-wt-ter-025.jpg",
-  "collected": "2026-11-14"
+  "collected": "2026-11-09"
  },
  {
   "code": "LC-WT-ZEL-001",
@@ -5466,6 +5466,86 @@
   "source": "Shopify product feed",
   "swatch_method": "laid out to spec (Nov 14, 2026): 2x2 as Clé lays it out rot=[0, 0, 0, 0] score=0.50 _2.jpg",
   "repo_file": "photos/lc-wt-ter-065.jpg",
+  "collected": "2026-11-14",
+  "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
+ },
+ {
+  "code": "LC-WT-TER-026",
+  "brand": "Clé Tile",
+  "retailer": "Clé Tile",
+  "product": "17th century: maiolica de delft | field tile | petite | gloss | bianca",
+  "sku": "CT0001",
+  "list_price": "11.00",
+  "price_unit": "per piece",
+  "product_url": "https://www.cletile.com/products/17th-century-maiolica-de-delft-field-tile-square-bianca",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_uc_9b648530-c871-4c55-87e4-4836320df32f.jpg?v=1783066185",
+  "source": "Shopify product feed",
+  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "repo_file": "photos/lc-wt-ter-026.jpg",
+  "collected": "2026-11-14",
+  "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
+ },
+ {
+  "code": "LC-WT-TER-027",
+  "brand": "Clé Tile",
+  "retailer": "Clé Tile",
+  "product": "17th century: maiolica de delft | field tile | petite | gloss | cobalta light",
+  "sku": "CT0002",
+  "list_price": "11.00",
+  "price_unit": "per piece",
+  "product_url": "https://www.cletile.com/products/17th-century-maiolica-de-delft-field-tile-square-cobalta-light",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_uc_647ad048-1981-49f1-922a-0c1d8bc8d8c9.jpg?v=1783066183",
+  "source": "Shopify product feed",
+  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "repo_file": "photos/lc-wt-ter-027.jpg",
+  "collected": "2026-11-14",
+  "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
+ },
+ {
+  "code": "LC-WT-TER-028",
+  "brand": "Clé Tile",
+  "retailer": "Clé Tile",
+  "product": "17th century: maiolica de delft | field tile | petite | gloss | cobalta medium",
+  "sku": "CT0003",
+  "list_price": "11.00",
+  "price_unit": "per piece",
+  "product_url": "https://www.cletile.com/products/17th-century-maiolica-de-delft-field-tile-square-cobalta-medium",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_uc_1be568ee-ba17-40a0-bb19-9f7da73af453.jpg?v=1783066183",
+  "source": "Shopify product feed",
+  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "repo_file": "photos/lc-wt-ter-028.jpg",
+  "collected": "2026-11-14",
+  "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
+ },
+ {
+  "code": "LC-WT-TER-029",
+  "brand": "Clé Tile",
+  "retailer": "Clé Tile",
+  "product": "17th century: maiolica de delft | field tile | petite | gloss | cobalta dark",
+  "sku": "CT0004",
+  "list_price": "11.00",
+  "price_unit": "per piece",
+  "product_url": "https://www.cletile.com/products/17th-century-maiolica-de-delft-field-tile-square-cobalta-dark",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_uc_2e141e95-f04d-41e4-bc05-68a4b93bc800.jpg?v=1783066185",
+  "source": "Shopify product feed",
+  "swatch_method": "laid out to spec (Nov 14, 2026): 3x3 field, 12x12 in",
+  "repo_file": "photos/lc-wt-ter-029.jpg",
+  "collected": "2026-11-14",
+  "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
+ },
+ {
+  "code": "LC-WT-TER-030",
+  "brand": "Clé Tile",
+  "retailer": "Clé Tile",
+  "product": "17th century: maiolica de delft | field tile | baguette | gloss | bianca",
+  "sku": "CT0005",
+  "list_price": "11.00",
+  "price_unit": "per piece",
+  "product_url": "https://www.cletile.com/products/17th-century-maiolica-de-delft-field-rectangle-square-bianca",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1127/8620/files/thumbnail_uc_1429bfa2-6cd2-4e9a-b712-e6877e40a279.jpg?v=1783066183",
+  "source": "Shopify product feed",
+  "swatch_method": "laid out to spec (Nov 14, 2026): running bond 2x6, 12x12 in",
+  "repo_file": "photos/lc-wt-ter-030.jpg",
   "collected": "2026-11-14",
   "note": "Wix Media file was uploaded before the SKU was set: its name carries the SKU minus 5 (lc-wt-ter-021 is LC-WT-TER-026)."
  }
