@@ -1,0 +1,2582 @@
+[
+ {
+  "sourceId": 640,
+  "title": "Boston 01 Frameless 1 3/4",
+  "slug": "boston-01-frameless",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-frameless",
+  "price": 357,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [
+   "Any"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": true,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": 1.75,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/inv1_f694d85ee9.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-frameless.webp"
+ },
+ {
+  "sourceId": 641,
+  "title": "Boston 01 Frameless 2 21/64",
+  "slug": "boston-01-frameless-2",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-frameless-2",
+  "price": 546,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": true,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": 2.328125,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/white_invisible_door_cc95becbaa.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-frameless-2.webp"
+ },
+ {
+  "sourceId": 688,
+  "title": "Portland 03 Light Winchester Oak",
+  "slug": "portland-03-light-winchester-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/portland-03-light-winchester-oak",
+  "price": 333,
+  "price96Add": 55,
+  "collection": [
+   "Portland 03"
+  ],
+  "color": [
+   "Light Winchester Oak"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Portland_03_Light_Winchester_Oak_53ae63f0b1.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-portland-03-light-winchester-oak.webp"
+ },
+ {
+  "sourceId": 690,
+  "title": "Phoenix 04 Shell Gray",
+  "slug": "phoenix-04-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-04-shell-gray",
+  "price": 337,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 04"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_02_Shell_Gray_FG_2b8e6fbe0c.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-04-shell-gray.webp"
+ },
+ {
+  "sourceId": 691,
+  "title": "Laredo 03 Melinga White",
+  "slug": "laredo-03-melinga-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-03-melinga-white",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 03"
+  ],
+  "color": [
+   "Melinga White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L3_melinga_white_frosted_glass_19fe04aea3.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-03-melinga-white.webp"
+ },
+ {
+  "sourceId": 692,
+  "title": "Laredo 03 Macadamia Nut",
+  "slug": "laredo-03-macadamia-nut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-03-macadamia-nut",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 03"
+  ],
+  "color": [
+   "Macadamia Nut"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L3_macadamia_nut_frosted_glass_Copy_bc61f652fe.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-03-macadamia-nut.webp"
+ },
+ {
+  "sourceId": 693,
+  "title": "Laredo 03 Cappuccino",
+  "slug": "laredo-03-cappuccino",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-03-cappuccino",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 03"
+  ],
+  "color": [
+   "Cappuccino"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L3_cappuccino_frosted_glass_725ee73d3f.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-03-cappuccino.webp"
+ },
+ {
+  "sourceId": 694,
+  "title": "Laredo 04 Snow Concrete",
+  "slug": "laredo-04-snow-concrete",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-04-snow-concrete",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 04"
+  ],
+  "color": [
+   "Snow Concrete"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_04_Snow_Concrete_9705310161.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-04-snow-concrete.webp"
+ },
+ {
+  "sourceId": 695,
+  "title": "Laredo 04 Cappuccino",
+  "slug": "laredo-04-cappuccino",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-04-cappuccino",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 04"
+  ],
+  "color": [
+   "Cappuccino"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_04_Cappuccino_18c70f2a94.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-04-cappuccino.webp"
+ },
+ {
+  "sourceId": 696,
+  "title": "Laredo 04 Satin White",
+  "slug": "laredo-04-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-04-satin-white",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 04"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_04_Satin_White_a80fe331e9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-04-satin-white.webp"
+ },
+ {
+  "sourceId": 697,
+  "title": "Laredo 04 Satin Gray",
+  "slug": "laredo-04-satin-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-04-satin-gray",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 04"
+  ],
+  "color": [
+   "Satin Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_04_Satin_Gray_e189dea7df.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-04-satin-gray.webp"
+ },
+ {
+  "sourceId": 698,
+  "title": "Denver 01 Satin White",
+  "slug": "denver-01-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-01-satin-white",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 01"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_01_Satin_White_0bec86c65a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-01-satin-white.webp"
+ },
+ {
+  "sourceId": 699,
+  "title": "Seattle 03 Serena Stone Gray",
+  "slug": "seattle-03-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-03-serena-stone-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 03"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_03_Serena_Stone_Gray_FG_6f64c3fc21.jpeg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-03-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 700,
+  "title": "Houston 02 Serena Stone Gray",
+  "slug": "houston-02-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-02-serena-stone-gray",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Houston 02"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_02_Serena_Stone_Gray_FG_71404da9c9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-02-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 701,
+  "title": "Houston 02 Medium Gray",
+  "slug": "houston-02-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-02-medium-gray",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Houston 02"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_02_Medium_Gray_BG_904d5f3566.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-02-medium-gray.webp"
+ },
+ {
+  "sourceId": 702,
+  "title": "Seattle 08 Medium Gray Tempered Frosted Glass",
+  "slug": "seattle-08-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-08-medium-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 08"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_08_Medium_Gray_FG_ef168036d4.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-08-medium-gray.webp"
+ },
+ {
+  "sourceId": 703,
+  "title": "Portland 02 Satin White",
+  "slug": "portland-02-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/portland-02-satin-white",
+  "price": 333,
+  "price96Add": 55,
+  "collection": [
+   "Portland 02"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Portland_02_Satin_White_15d7eede6e.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-portland-02-satin-white.webp"
+ },
+ {
+  "sourceId": 704,
+  "title": "Portland 01 Satin White",
+  "slug": "portland-01-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/portland-01-satin-white",
+  "price": 333,
+  "price96Add": 55,
+  "collection": [
+   "Portland 01"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Portland_01_Satn_White_f9de8d0772.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-portland-01-satin-white.webp"
+ },
+ {
+  "sourceId": 705,
+  "title": "Laredo 02 Melinga White",
+  "slug": "laredo-02-melinga-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-02-melinga-white",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 02"
+  ],
+  "color": [
+   "Melinga White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_02_Melinga_White_BG_7b19b1dbce.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-02-melinga-white.webp"
+ },
+ {
+  "sourceId": 706,
+  "title": "Laredo 02 Satin White",
+  "slug": "laredo-02-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-02-satin-white",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 02"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_02_Satin_White_BG_0ad97adeb3.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-02-satin-white.webp"
+ },
+ {
+  "sourceId": 707,
+  "title": "Denver 03 Light Winchester Oak",
+  "slug": "denver-03-light-winchester-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-03-light-winchester-oak",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 03"
+  ],
+  "color": [
+   "Light Winchester Oak"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_03_Light_Winchester_Oak_92471945af.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-03-light-winchester-oak.webp"
+ },
+ {
+  "sourceId": 708,
+  "title": "Laredo 01 Cappuccino",
+  "slug": "laredo-01-cappuccino",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-01-cappuccino",
+  "price": 274,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 01"
+  ],
+  "color": [
+   "Cappuccino"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L1_cappuccino_frosted_glass_9e1cb7c725.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-01-cappuccino.webp"
+ },
+ {
+  "sourceId": 709,
+  "title": "Laredo 01 Macadamia Nut",
+  "slug": "laredo-01-macadamia-nut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-01-macadamia-nut",
+  "price": 274,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 01"
+  ],
+  "color": [
+   "Macadamia Nut"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_01_Macadamia_Nut_WG_4a5683a262.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-01-macadamia-nut.webp"
+ },
+ {
+  "sourceId": 710,
+  "title": "Denver 06 Serena Light Gray",
+  "slug": "denver-06-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-06-serena-light-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 06"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_06_Serena_Light_Gray_5dd53b9827.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-06-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 711,
+  "title": "Denver 06 Serena Stone Gray",
+  "slug": "denver-06-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-06-serena-stone-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 06"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_06_Serena_Stone_Gray_851f49b5f5.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-06-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 712,
+  "title": "Denver 08 Serena Stone Gray",
+  "slug": "denver-08-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-08-serena-stone-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 08"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/kamenno_seryj_592_0bc9408498.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-08-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 713,
+  "title": "Denver 04 Serena Light Gray",
+  "slug": "denver-04-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-04-serena-light-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 04"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_04_Serena_Light_Gray_723128dbfd.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-04-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 714,
+  "title": "Denver 04 Serena Stone Gray",
+  "slug": "denver-04-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-04-serena-stone-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 04"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_04_Serena_Stone_Gray_1b39d3449b.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-04-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 715,
+  "title": "Denver 01 Snow Concrete",
+  "slug": "denver-01-snow-concrete",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-01-snow-concrete",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 01"
+  ],
+  "color": [
+   "Snow Concrete"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_01_Snow_Concrete_6da76db5f9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-01-snow-concrete.webp"
+ },
+ {
+  "sourceId": 716,
+  "title": "Seattle 06 Serena Stone Gray Tempered Frosted Glass",
+  "slug": "seattle-06-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-06-serena-stone-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 06"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_06_Serena_Stone_Gray_FG_42e056c595.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-06-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 717,
+  "title": "Laredo 01 Satin Gray",
+  "slug": "laredo-01-satin-sray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-01-satin-sray",
+  "price": 274,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 01"
+  ],
+  "color": [
+   "Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_01_Satin_Gray_WG_a50d56cdf9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-01-satin-sray.webp"
+ },
+ {
+  "sourceId": 718,
+  "title": "Laredo 01 Satin White",
+  "slug": "laredo-01-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-01-satin-white",
+  "price": 274,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 01"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_01_Satin_White_FG_c185a49aaf.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-01-satin-white.webp"
+ },
+ {
+  "sourceId": 720,
+  "title": "Denver 02 Serena Stone Gray",
+  "slug": "denver-02-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-02-serena-stone-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 02"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_02_Serena_Stone_Gray_6903783209.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-02-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 721,
+  "title": "Denver 01 Light Winchester Oak",
+  "slug": "denver-01-light-winchester-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-01-light-winchester-oak",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 01"
+  ],
+  "color": [
+   "Light Winchester Oak"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/592_wood_586f50ab86.webp",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-01-light-winchester-oak.webp"
+ },
+ {
+  "sourceId": 722,
+  "title": "Denver 08 Serena Light Gray",
+  "slug": "denver-08-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-08-serena-light-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 08"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/592_serena_light_gray_0134d97aae.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-08-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 723,
+  "title": "Denver 02 Serena Light Gray",
+  "slug": "denver-02-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-02-serena-light-gray",
+  "price": 353,
+  "price96Add": 55,
+  "collection": [
+   "Denver 02"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_02_serena_light_gray_21b41438e9.jpeg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-02-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 725,
+  "title": "Denver 03 Snow Concrete",
+  "slug": "denver-03-snow-concrete",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-03-snow-concrete",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 03"
+  ],
+  "color": [
+   "Snow Concrete"
+  ],
+  "style": [
+   "Loft"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L_16_snow_concrete_a484dee20a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-03-snow-concrete.webp"
+ },
+ {
+  "sourceId": 726,
+  "title": "Denver 03 Satin White",
+  "slug": "denver-03-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-03-satin-white",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 03"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_03_Satin_White_f037e87ae9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-03-satin-white.webp"
+ },
+ {
+  "sourceId": 727,
+  "title": "Denver 01 Satin Gray",
+  "slug": "denver-01-satin-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/denver-01-satin-gray",
+  "price": 288,
+  "price96Add": 55,
+  "collection": [
+   "Denver 01"
+  ],
+  "color": [
+   "Gray"
+  ],
+  "style": [
+   "Classic"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Denver_01_Satin_Gray_bbaee334b7.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-denver-01-satin-gray.webp"
+ },
+ {
+  "sourceId": 728,
+  "title": "Laredo 02 Cappuccino",
+  "slug": "laredo-02-cappuccino",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-02-cappuccino",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 02"
+  ],
+  "color": [
+   "Cappuccino"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_02_Cappuccino_FG_b94bb22a1d.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-02-cappuccino.webp"
+ },
+ {
+  "sourceId": 729,
+  "title": "Laredo 01 Melinga White",
+  "slug": "laredo-01-melinga-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-01-melinga-white",
+  "price": 274,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 01"
+  ],
+  "color": [
+   "Melinga White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": 1.5,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L1_melinga_white_frosted_glass_67a0a5b27e.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-01-melinga-white.webp"
+ },
+ {
+  "sourceId": 730,
+  "title": "Laredo 02 Satin Gray",
+  "slug": "laredo-02-satin-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-02-satin-gray",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 02"
+  ],
+  "color": [
+   "Satin Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L2_satin_gray_frosted_glass_6554541a88.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-02-satin-gray.webp"
+ },
+ {
+  "sourceId": 732,
+  "title": "Seattle 02 Satin White",
+  "slug": "seattle-02-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-02-satin-white",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 02"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_01_White_Matte_FG_6d3db534fe.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-02-satin-white.webp"
+ },
+ {
+  "sourceId": 733,
+  "title": "Seattle 03 Serena Light Gray",
+  "slug": "seattle-03-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-03-serena-light-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 03"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_03_Serena_Light_Gray_FG_f5666a1ff5.jpeg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-03-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 734,
+  "title": "Seattle 04 Serena Stone Gray",
+  "slug": "seattle-04-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-04-serena-stone-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 04"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_04_Serena_Stone_Gray_2e0df36080.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-04-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 735,
+  "title": "Seattle 05 Serena Light Gray",
+  "slug": "seattle-05-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-05-serena-light-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 05"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_05_Serena_Light_Gray_FG_e2b01f9de0.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-05-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 736,
+  "title": "Seattle 05 Serena Stone Gray",
+  "slug": "seattle-05-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-05-serena-stone-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 05"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_05_Serena_Stone_Gray_FG_04d8023c3d.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-05-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 737,
+  "title": "Seattle 06 White Matte",
+  "slug": "seattle-06-white-matte",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-06-white-matte",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 06"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_06_White_Matte_FG_f0b601b3b4.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-06-white-matte.webp"
+ },
+ {
+  "sourceId": 738,
+  "title": "Seattle 06 Shell Gray",
+  "slug": "seattle-06-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-06-shell-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 06"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_06_Serena_Shell_Gray_FG_f2d711fdf6.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-06-shell-gray.webp"
+ },
+ {
+  "sourceId": 739,
+  "title": "Seattle 06 Serena Light Gray",
+  "slug": "seattle-06-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-06-serena-light-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 06"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_06_Serena_Light_Gray_FG_dc2f6db5a8.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-06-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 740,
+  "title": "Seattle 06 Medium Gray",
+  "slug": "seattle-06-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-06-medium-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 06"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_06_Medium_Gray_FG_554e6ee698.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-06-medium-gray.webp"
+ },
+ {
+  "sourceId": 741,
+  "title": "Seattle 08 Serena Light Gray",
+  "slug": "seattle-08-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-08-serena-light-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 08"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_08_Shell_Gray_FG_7e9b0d1e88.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-08-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 742,
+  "title": "Laredo 02 Macadamia Nut",
+  "slug": "laredo-02-macadamia-nut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-02-macadamia-nut",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 02"
+  ],
+  "color": [
+   "Macadamia Nut"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Laredo_02_Macadamia_Nut_WG_68cf132eec.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-02-macadamia-nut.webp"
+ },
+ {
+  "sourceId": 743,
+  "title": "Laredo 09 Melinga White",
+  "slug": "laredo-09-melinga-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/laredo-09-melinga-white",
+  "price": 280,
+  "price96Add": 55,
+  "collection": [
+   "Laredo 09"
+  ],
+  "color": [
+   "Melinga White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/611sf_N1_WXL_AC_UF_894_1000_QL_80_1_c5b180df24.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-laredo-09-melinga-white.webp"
+ },
+ {
+  "sourceId": 744,
+  "title": "Dallas 01 White Matte",
+  "slug": "dallas-01-white-matte",
+  "productUrl": "https://interiordoorsco.com/interior-doors/dallas-01-white-matte",
+  "price": 338,
+  "price96Add": 55,
+  "collection": [
+   "Dallas 01"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Dallas_01_White_Matte_5814c8e866.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-dallas-01-white-matte.webp"
+ },
+ {
+  "sourceId": 745,
+  "title": "Dallas 01 Serena Stone Gray",
+  "slug": "dallas-01-serena-stone-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/dallas-01-serena-stone-gray",
+  "price": 338,
+  "price96Add": 55,
+  "collection": [
+   "Dallas 01"
+  ],
+  "color": [
+   "Serena Stone Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/635_medium_gray_4277d6a1c1.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-dallas-01-serena-stone-gray.webp"
+ },
+ {
+  "sourceId": 746,
+  "title": "Dallas 01 Shell Gray",
+  "slug": "dallas-01-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/dallas-01-shell-gray",
+  "price": 338,
+  "price96Add": 55,
+  "collection": [
+   "Dallas 01"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/2acb25126a5cd8ef17f76b41afdc884d_15535_295_700_re111090_686dd7b862.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-dallas-01-shell-gray.webp"
+ },
+ {
+  "sourceId": 747,
+  "title": "Dallas 01 Medium Gray",
+  "slug": "dallas-01-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/dallas-01-medium-gray",
+  "price": 338,
+  "price96Add": 55,
+  "collection": [
+   "Dallas 01"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/dallas_01_medium_gray_4209d5cb73.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-dallas-01-medium-gray.webp"
+ },
+ {
+  "sourceId": 748,
+  "title": "Dallas 01 Serena Light Gray",
+  "slug": "dallas-01-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/dallas-01-serena-light-gray",
+  "price": 336,
+  "price96Add": 55,
+  "collection": [
+   "Dallas 01"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/635_dub_serena_belyj_kristal_b4c49ecb3a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-dallas-01-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 749,
+  "title": "Seattle 01 White Matte Tempered Frosted Glass",
+  "slug": "seattle-01-white-matte",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-01-white-matte",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 01"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_01_White_Matter_FG_fa7cf65730.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-01-white-matte.webp"
+ },
+ {
+  "sourceId": 750,
+  "title": "Seattle 08 White Matte (Frosted glass)",
+  "slug": "seattle-08-white-matte-glass-frosted",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-08-white-matte-glass-frosted",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 08"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/60154711763ddf174dca48d9431e0uyx7_18853_295_700_re111090_0862101c6f.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-08-white-matte-glass-frosted.webp"
+ },
+ {
+  "sourceId": 751,
+  "title": "Portland 03 Satin White",
+  "slug": "portland-03-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/portland-03-satin-white",
+  "price": 333,
+  "price96Add": 55,
+  "collection": [
+   "Portland 03"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Portland_03_Satin_White_3442119ab3.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-portland-03-satin-white.webp"
+ },
+ {
+  "sourceId": 753,
+  "title": "Houston 01 Shell Gray",
+  "slug": "houston-01-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-01-shell-gray",
+  "price": 350,
+  "price96Add": 55,
+  "collection": [
+   "Houston 01"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_01_Shell_Gray_018bf6a885.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-01-shell-gray.webp"
+ },
+ {
+  "sourceId": 754,
+  "title": "Houston 01 White Matte",
+  "slug": "houston-01-white-matte",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-01-white-matte",
+  "price": 350,
+  "price96Add": 55,
+  "collection": [
+   "Houston 01"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_01_White_Matte_d65a0d7d18.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-01-white-matte.webp"
+ },
+ {
+  "sourceId": 755,
+  "title": "Houston 02 Serena Light Gray",
+  "slug": "houston-02-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-02-serena-light-gray",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Houston 02"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_02_Serena_Stone_Gray_BG_39a557b55a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-02-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 756,
+  "title": "Portland 08 Satin White",
+  "slug": "portland-08-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/portland-08-satin-white",
+  "price": 333,
+  "price96Add": 55,
+  "collection": [
+   "Portland 08"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Portland_08_Satin_White_227997fca1.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-portland-08-satin-white.webp"
+ },
+ {
+  "sourceId": 757,
+  "title": "Phoenix 02 Shell Gray",
+  "slug": "phoenix-02-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-02-shell-gray",
+  "price": 337,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 02"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_02_Shell_Gray_FG_ff0a7048eb.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-02-shell-gray.webp"
+ },
+ {
+  "sourceId": 758,
+  "title": "Seattle 04 Serena Light Gray",
+  "slug": "seattle-04-serena-light-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/seattle-04-serena-light-gray",
+  "price": 374,
+  "price96Add": 55,
+  "collection": [
+   "Seattle 04"
+  ],
+  "color": [
+   "Serena Light Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": true,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Seattle_04_Serena_Light_Gray_3fd456930a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-seattle-04-serena-light-gray.webp"
+ },
+ {
+  "sourceId": 759,
+  "title": "Phoenix 02 Medium Gray",
+  "slug": "phoenix-02-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-02-medium-gray",
+  "price": 337,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 02"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_02_Medium_Gray_BG_505f5e312e.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-02-medium-gray.webp"
+ },
+ {
+  "sourceId": 760,
+  "title": "Phoenix 04 Medium Gray",
+  "slug": "phoenix-04-medium-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-04-medium-gray",
+  "price": 337,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 04"
+  ],
+  "color": [
+   "Medium Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_04_Medium_Gray_WG_e3db2df20a.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-04-medium-gray.webp"
+ },
+ {
+  "sourceId": 761,
+  "title": "Houston 02 Shell Gray",
+  "slug": "houston-02-shell-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-02-shell-gray",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Houston 02"
+  ],
+  "color": [
+   "Shell Gray"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_02_Shell_Gray_BG_a611859ed9.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-02-shell-gray.webp"
+ },
+ {
+  "sourceId": 762,
+  "title": "Houston 02 White Matte",
+  "slug": "houston-02-white-matte",
+  "productUrl": "https://interiordoorsco.com/interior-doors/houston-02-white-matte",
+  "price": 363,
+  "price96Add": 55,
+  "collection": [
+   "Houston 02"
+  ],
+  "color": [
+   "White Matte"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Houston_02_White_Matte_BG_c051d1d907.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-houston-02-white-matte.webp"
+ },
+ {
+  "sourceId": 776,
+  "title": "Boston 02 White Oak",
+  "slug": "boston-02-white-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-02-white-oak",
+  "price": 373,
+  "price96Add": 55,
+  "collection": [
+   "Boston 02"
+  ],
+  "color": [
+   "White Oak"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Boston_02_White_Oak_6bdc128be5.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-02-white-oak.webp"
+ },
+ {
+  "sourceId": 783,
+  "title": "Boston 02 Dark Brown Walnut",
+  "slug": "boston-02-dark-brown-walnut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-02-dark-brown-walnut",
+  "price": 420,
+  "price96Add": 55,
+  "collection": [
+   "Boston 02"
+  ],
+  "color": [],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Boston_02_Dark_Brown_Walnut_f0555440d3.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-02-dark-brown-walnut.webp"
+ },
+ {
+  "sourceId": 784,
+  "title": "Boston 02 Smoke Oak",
+  "slug": "boston-02-smoke-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-02-smoke-oak",
+  "price": 420,
+  "price96Add": 55,
+  "collection": [
+   "Boston 02"
+  ],
+  "color": [],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Boston_02_Smoke_Oak_8b72017bdf.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-02-smoke-oak.webp"
+ },
+ {
+  "sourceId": 785,
+  "title": "Boston 01 White Oak",
+  "slug": "boston-01-white-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-white-oak",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [
+   "White Oak"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/321_9efa76dcf1.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-white-oak.webp"
+ },
+ {
+  "sourceId": 786,
+  "title": "Boston 01 Macadamia Nut",
+  "slug": "boston-01-macadamia-nut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-macadamia-nut",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [
+   "Macadamia Nut"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Boston_01_Macadamia_Nut_1cecb1aed5.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-macadamia-nut.webp"
+ },
+ {
+  "sourceId": 787,
+  "title": "Boston 02 Nordic Oak",
+  "slug": "boston-02-nordic-oak",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-02-nordic-oak",
+  "price": 420,
+  "price96Add": 55,
+  "collection": [
+   "Boston 02"
+  ],
+  "color": [],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Boston_02_Nordic_Oak_e45f492111.png",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos (perspective-corrected from a partly open door)",
+  "repo_file": "photos/interior-door-idc-boston-02-nordic-oak.webp"
+ },
+ {
+  "sourceId": 788,
+  "title": "Boston 01 Satin White",
+  "slug": "boston-01-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-satin-white",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L10_satin_white_3c39da0e11.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-satin-white.webp"
+ },
+ {
+  "sourceId": 789,
+  "title": "Phoenix 01 Cappuccino",
+  "slug": "phoenix-01-cappuccino",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-01-cappuccino",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 01"
+  ],
+  "color": [
+   "Cappuccino"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_01_Cappuccino_FG_e836113814.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-01-cappuccino.webp"
+ },
+ {
+  "sourceId": 790,
+  "title": "Phoenix 01 Melinga White",
+  "slug": "phoenix-01-melinga-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-01-melinga-white",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 01"
+  ],
+  "color": [
+   "Melinga White"
+  ],
+  "style": [
+   "European"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_01_Melinga_White_WG_066c541ef6.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-01-melinga-white.webp"
+ },
+ {
+  "sourceId": 791,
+  "title": "Phoenix 01 Satin White",
+  "slug": "phoenix-01-satin-white",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-01-satin-white",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 01"
+  ],
+  "color": [
+   "Satin White"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/Phoenix_01_Satin_White_BG_c0b43384a6.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-01-satin-white.webp"
+ },
+ {
+  "sourceId": 792,
+  "title": "Boston 01 Satin Gray",
+  "slug": "boston-01-satin-gray",
+  "productUrl": "https://interiordoorsco.com/interior-doors/boston-01-satin-gray",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Boston 01"
+  ],
+  "color": [
+   "Satin Gray"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L10_satin_gray_5536f8695c.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-boston-01-satin-gray.webp"
+ },
+ {
+  "sourceId": 793,
+  "title": "Phoenix 01 Macadamia Nut",
+  "slug": "phoenix-01-macadamia-nut",
+  "productUrl": "https://interiordoorsco.com/interior-doors/phoenix-01-macadamia-nut",
+  "price": 308,
+  "price96Add": 55,
+  "collection": [
+   "Phoenix 01"
+  ],
+  "color": [
+   "Macadamia Nut"
+  ],
+  "style": [
+   "Modern"
+  ],
+  "glass": false,
+  "frameless": false,
+  "sizes": [
+   "30x80",
+   "32x80",
+   "36x80",
+   "30x96",
+   "32x96",
+   "36x96"
+  ],
+  "thicknessInches": null,
+  "sourcePhoto": "https://strapi-btdoor.s3.us-east-1.amazonaws.com/L15_macadamia_nut_frosted_glass_0f32ab1e1b.jpg",
+  "photo_method": "Front render cropped to the door slab (frame removed), scaled to 1470 px tall and centered on a transparent 1024x1536 WebP, the format of the site's METRIE door photos",
+  "repo_file": "photos/interior-door-idc-phoenix-01-macadamia-nut.webp"
+ }
+]
