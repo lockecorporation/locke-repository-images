@@ -1,0 +1,92 @@
+[
+ {
+  "file": "photos/deck-materials/lc-dt-trx-020.jpg",
+  "step": "Select deck material. / Select existing deck material.",
+  "card": "Trex",
+  "source": "Trex Select Pebble Grey sample photo (Trex), sold by Advantage Lumber, Santa Fe Springs",
+  "source_url": "https://mcprod.trex.com/media/catalog/product/cache/4f1d789335715ab82b885a58473cf997/1/9/1984717c6b1beb1c36d88e3836dd9e34d13550bf_4.jpg",
+  "photo_method": "2048x2048 JPEG swatch: board texture cut from the source photo, lighting evened out, laid as four 5-1/2 in. boards running left to right with 16 px gaps (same scale and light as the deck catalog swatches)",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-redwood.jpg",
+  "step": "Select deck material. / Select existing deck material.",
+  "card": "Redwood",
+  "source": "Mendocino Forest Products 2x6 Construction Heart S4S redwood, face close-up (Home Depot listing 100056586)",
+  "source_url": "https://images.thdstatic.com/productImages/ce72d047-a425-43bd-a1d0-86d9ec240f66/svn/mendocino-forest-products-framing-lumber-108200-c3_1000.jpg",
+  "photo_method": "2048x2048 JPEG swatch: board texture cut from the source photo, lighting evened out, laid as four 5-1/2 in. boards running left to right with 16 px gaps (same scale and light as the deck catalog swatches); the knot-free half of the photo, toned from raw lumber to the sealed redwood color of the same listing's deck photos",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dt-ipe-001.jpg",
+  "step": "Select deck material. / Select existing deck material.",
+  "card": "Brazilian Ipe",
+  "source": "Advantage Lumber Ipe species swatch",
+  "source_url": "https://cdn.shopify.com/s/files/1/0266/1869/1626/products/Ipe.jpg",
+  "photo_method": "2048x2048 JPEG swatch: board texture cut from the source photo, lighting evened out, laid as four 5-1/2 in. boards running left to right with 16 px gaps (same scale and light as the deck catalog swatches)",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-cedar.jpg",
+  "step": "Select deck material. / Select existing deck material.",
+  "card": "Cedar",
+  "source": "Advantage Lumber Western Red Cedar select tight knot face shots (1x6 and square-edge boards)",
+  "source_url": "https://cdn.shopify.com/s/files/1/0266/1869/1626/files/cedar-grain-face-shots-STK-1x6-channel.jpg",
+  "photo_method": "2048x2048 JPEG swatch: board texture cut from the source photo, lighting evened out, laid as four 5-1/2 in. boards running left to right with 16 px gaps (same scale and light as the deck catalog swatches)",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dr-ipe-001.jpg",
+  "step": "Select railing style.",
+  "card": "Wood (Ipe deck)",
+  "source": "Advantage Lumber Ipe species swatch as the texture of every member",
+  "source_url": "https://cdn.shopify.com/s/files/1/0266/1869/1626/products/Ipe.jpg",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high; 4x4 post, 2x6 cap over a 2x4 rail, 2x2 balusters 5-1/2 in. on center",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-rail-wood-redwood.jpg",
+  "step": "Select railing style.",
+  "card": "Wood (Trex and redwood decks)",
+  "source": "Mendocino Forest Products redwood face close-up (as the redwood swatch)",
+  "source_url": "https://images.thdstatic.com/productImages/ce72d047-a425-43bd-a1d0-86d9ec240f66/svn/mendocino-forest-products-framing-lumber-108200-c3_1000.jpg",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high; 4x4 post, 2x6 cap over a 2x4 rail, 2x2 balusters 5-1/2 in. on center",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-rail-wood-cedar.jpg",
+  "step": "Select railing style.",
+  "card": "Wood (cedar deck)",
+  "source": "Advantage Lumber Western Red Cedar clear vertical grain face shot",
+  "source_url": "https://cdn.shopify.com/s/files/1/0266/1869/1626/files/cedar-grain-face-shots-COMPARE_687276a8-ed3a-46b5-9490-26c6962615a0.jpg",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high; 4x4 post, 2x6 cap over a 2x4 rail, 2x2 balusters 5-1/2 in. on center",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dr-trx-003.jpg",
+  "step": "Select railing style.",
+  "card": "Composite",
+  "source": "Trex Transcend railing, Classic White, square composite balusters (Advantage Lumber)",
+  "source_url": "https://buy.advantagelumber.com/products/trex-transcend-rail-and-square-composite-baluster-kit-horizontal?variant=44164357390378",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high; Trex Transcend member sizes",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-rail-glass.jpg",
+  "step": "Select railing style.",
+  "card": "Glass",
+  "source": "drawn: black aluminum 2-1/2 in. posts and rails with a tempered glass panel",
+  "source_url": "",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high",
+  "collected": "2026-11-14"
+ },
+ {
+  "file": "photos/deck-materials/lc-dk-rail-cable.jpg",
+  "step": "Select railing style.",
+  "card": "Steel Cable — Black Frame",
+  "source": "drawn: black aluminum 2-1/2 in. posts and top rail, stainless cables 3 in. on center",
+  "source_url": "",
+  "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (same drawing as the deck catalog railings): post, cap, rails and infill at real sizes, 36 in. high",
+  "collected": "2026-11-14"
+ }
+]
