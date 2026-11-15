@@ -56,20 +56,6 @@
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/hampton-bay/hb-hampton__cognac.png"
  },
  {
-  "listing": "hb-unfinished",
-  "brand": "Hampton Bay",
-  "style": "Unfinished",
-  "color": "Unfinished",
-  "price30Base": 159.0,
-  "rendered": false,
-  "note": null,
-  "file": "photos/kitchen-cabinets/hampton-bay/hb-unfinished__unfinished.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://images.thdstatic.com/catalog/pdfImages/a1/a1c92c1f-bf6c-4121-b861-f78ef65899d6.pdf (page 3)",
-  "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/hampton-bay/hb-unfinished__unfinished.png"
- },
- {
   "listing": "hb-shaker",
   "brand": "Hampton Bay",
   "style": "Shaker",
@@ -110,6 +96,20 @@
   "height": 600,
   "source": "https://images.thdstatic.com/catalog/pdfImages/a1/a1c92c1f-bf6c-4121-b861-f78ef65899d6.pdf (page 3)",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/hampton-bay/hb-shaker__java.png"
+ },
+ {
+  "listing": "hb-shaker",
+  "brand": "Hampton Bay",
+  "style": "Shaker",
+  "color": "Unfinished",
+  "price30Base": 159.0,
+  "rendered": false,
+  "note": null,
+  "file": "photos/kitchen-cabinets/hampton-bay/hb-shaker__unfinished.png",
+  "width": 375,
+  "height": 600,
+  "source": "https://images.thdstatic.com/catalog/pdfImages/a1/a1c92c1f-bf6c-4121-b861-f78ef65899d6.pdf (page 3)",
+  "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/hampton-bay/hb-shaker__unfinished.png"
  },
  {
   "listing": "cnc-luxor",
