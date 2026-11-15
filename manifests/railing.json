@@ -1,0 +1,134 @@
+[
+ {
+  "sku": "LC-RL-001",
+  "brand": "ProWood",
+  "supplier": "The Home Depot",
+  "productName": "3 ft. x 6 ft. Pressure-Treated Pine Pre-Assembled Capped Wood Deck Line Railing Kit with Black Aluminum Round Balusters",
+  "model": "162629",
+  "productUrl": "https://www.homedepot.com/p/ProWood-3-ft-x-6-ft-Pressure-Treated-Pine-Pre-Assembled-Capped-Wood-Deck-Line-Railing-Kit-with-Black-Aluminum-Round-Balusters-162629/203879870",
+  "sourceImage": "https://images.thdstatic.com/productImages/ff617e32-0860-4c10-9fd6-0e6cc41b786b/svn/prowood-deck-railing-systems-162629-64_1000.jpg",
+  "file": "photos/railing/lc-rl-001.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-002",
+  "brand": "ProWood",
+  "supplier": "The Home Depot",
+  "productName": "3 ft. x 8 ft. Pressure-Treated Pine Capped Wood Line Deck Railing Kit with Black Aluminum Round Balusters",
+  "model": "298645",
+  "productUrl": "https://www.homedepot.com/p/ProWood-3-ft-x-8-ft-Pressure-Treated-Pine-Capped-Wood-Line-Deck-Railing-Kit-with-Black-Aluminum-Round-Balusters-298645/304834530",
+  "sourceImage": "https://images.thdstatic.com/productImages/973dfd70-9196-4aec-94ac-7cbad4aaa782/svn/prowood-deck-railing-systems-298645-64_1000.jpg",
+  "file": "photos/railing/lc-rl-002.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-003",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Enhance 8 ft. W x 36 in. H Classic White Composite Deck Rail Kit",
+  "model": "WTRD0836HENKRT",
+  "productUrl": "https://www.homedepot.com/p/Trex-Enhance-8-ft-W-x-36-in-H-Classic-White-Composite-Deck-Rail-Kit-WTRD0836HENKRT/334614977",
+  "sourceImage": "https://images.thdstatic.com/productImages/1e885f86-2040-4342-87bf-77db433907eb/svn/trex-deck-parts-accessories-wtrd0836henkrt-64_1000.jpg",
+  "file": "photos/railing/lc-rl-003.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-004",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Enhance 8 ft. W x 36 in. H Charcoal Black Composite Deck Rail Kit",
+  "model": "BKRD0836HENKRT",
+  "productUrl": "https://www.homedepot.com/p/Trex-Enhance-8-ft-W-x-36-in-H-Charcoal-Black-Composite-Deck-Rail-Kit-BKRD0836HENKRT/334614975",
+  "sourceImage": "https://images.thdstatic.com/productImages/0c31240f-cebf-4c98-a360-387cd895126d/svn/trex-deck-parts-accessories-bkrd0836henkrt-64_1000.jpg",
+  "file": "photos/railing/lc-rl-004.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-005",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Enhance 6 ft. W x 36 in. H Charcoal Black Composite Rail with Black Round Aluminum Baluster Kit-Horizontal",
+  "model": "BKRD0636HENKHD",
+  "productUrl": "https://www.homedepot.com/p/Trex-Enhance-6-ft-W-x-36-in-H-Charcoal-Black-Composite-Rail-with-Black-Round-Aluminum-Baluster-Kit-Horizontal-BKRD0636HENKHD/301619146",
+  "sourceImage": "https://images.thdstatic.com/productImages/89af0a75-933e-4b8e-9c8c-c55b354cf34f/svn/trex-deck-railing-systems-bkrd0636henkhd-64_1000.jpg",
+  "file": "photos/railing/lc-rl-005.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-006",
+  "brand": "Veranda",
+  "supplier": "The Home Depot",
+  "productName": "Traditional 8 ft. x 36 in. (Actual Size: 92 x 33 1/4\" in.) White PolyComposite Vinyl Rail Kit without Brackets",
+  "model": "73003989",
+  "productUrl": "https://www.homedepot.com/p/Veranda-Traditional-8-ft-x-36-in-Actual-Size-92-x-33-1-4-in-White-PolyComposite-Vinyl-Rail-Kit-without-Brackets-73003989/202084783",
+  "sourceImage": "https://images.thdstatic.com/productImages/9398e994-6eb3-4cdd-8c03-3b89c72ac89c/svn/veranda-deck-railing-systems-73003989-64_1000.jpg",
+  "file": "photos/railing/lc-rl-006.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-007",
+  "brand": "Veranda",
+  "supplier": "The Home Depot",
+  "productName": "Traditional 8 ft. x 36 in. (Actual Size: 92 x 33 1/4\" in.) White PolyComposite Vinyl Rail Kit with Black Metal Balusters",
+  "model": "73024860",
+  "productUrl": "https://www.homedepot.com/p/Veranda-Traditional-8-ft-x-36-in-Actual-Size-92-x-33-1-4-in-White-PolyComposite-Vinyl-Rail-Kit-with-Black-Metal-Balusters-73024860/206858786",
+  "sourceImage": "https://images.thdstatic.com/productImages/7320d869-24d6-47f5-b1fc-b62c6ed8009a/svn/veranda-deck-railing-systems-73024860-64_1000.jpg",
+  "file": "photos/railing/lc-rl-007.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-008",
+  "brand": "NewTechWood",
+  "supplier": "The Home Depot",
+  "productName": "Ultrashield Hemispheres 36 in. x 3 in. x 6 ft. Brown Peruvian Teak Composite Railing Kit",
+  "model": "US-636RK-ALU-ZX-TK",
+  "productUrl": "https://www.homedepot.com/p/NewTechWood-Ultrashield-Hemispheres-36-in-x-3-in-x-6-ft-Brown-Peruvian-Teak-Composite-Railing-Kit-US-636RK-ALU-ZX-TK/304129981",
+  "sourceImage": "https://images.thdstatic.com/productImages/220e22e2-15b2-4ef8-88e5-909881562747/svn/newtechwood-deck-railing-systems-us-636rk-alu-zx-tk-64_1000.jpg",
+  "file": "photos/railing/lc-rl-008.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-009",
+  "brand": "EZ Handrail",
+  "supplier": "The Home Depot",
+  "productName": "8 ft. x 36 in. Aluminum Textured Black 8 in. Glass Baluster Rail Kit",
+  "model": "EZG815",
+  "productUrl": "https://www.homedepot.com/p/EZ-Handrail-8-ft-x-36-in-Aluminum-Textured-Black-8-in-Glass-Baluster-Rail-Kit-EZG815/203322743",
+  "sourceImage": "https://images.thdstatic.com/productImages/48d9f321-2d84-4403-bdff-d0d0bf1b5137/svn/ez-handrail-deck-railing-systems-ezg815-64_1000.jpg",
+  "file": "photos/railing/lc-rl-009.png",
+  "processing": "glass panel kit: cropped to the largest non-white region, opaque, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-010",
+  "brand": "EZ Handrail",
+  "supplier": "The Home Depot",
+  "productName": "96 in. x 36 in. White Aluminum Frame Glass Baluster Railing Kit",
+  "model": "EZG800",
+  "productUrl": "https://www.homedepot.com/p/EZ-Handrail-96-in-x-36-in-White-Aluminum-Frame-Glass-Baluster-Railing-Kit-EZG800/202843277",
+  "sourceImage": "https://images.thdstatic.com/productImages/7b14007b-fad7-4b0d-9b56-a34068fdf3fb/svn/ez-handrail-deck-railing-systems-ezg800-64_1000.jpg",
+  "file": "photos/railing/lc-rl-010.png",
+  "processing": "glass panel kit: cropped to the largest non-white region, opaque, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-011",
+  "brand": "CityPost",
+  "supplier": "The Home Depot",
+  "productName": "8 ft. Black Deck Cable Railing",
+  "model": "CP-8-B-D",
+  "productUrl": "https://www.homedepot.com/p/CityPost-8-ft-Black-Deck-Cable-Railing-CP-8-B-D/320861920",
+  "sourceImage": "https://images.thdstatic.com/productImages/244a210c-1db0-4373-b149-122bcb968fbb/svn/citypost-cable-railings-cp-8-b-d-64_1000.jpg",
+  "file": "photos/railing/lc-rl-011.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-RL-012",
+  "brand": "CityPost",
+  "supplier": "The Home Depot",
+  "productName": "6 ft. Deck Cable Railing, 36 in. Base Mount, Black",
+  "model": "CP-6-B-D",
+  "productUrl": "https://www.homedepot.com/p/CityPost-6-ft-Deck-Cable-Railing-36-in-Base-Mount-Black-CP-6-B-D/320861486",
+  "sourceImage": "https://images.thdstatic.com/productImages/88300176-aa03-4597-aa4c-7252a84b8af0/svn/citypost-cable-railings-cp-6-b-d-64_1000.jpg",
+  "file": "photos/railing/lc-rl-012.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ }
+]
