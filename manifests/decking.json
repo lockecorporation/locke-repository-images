@@ -1,0 +1,123 @@
+[
+ {
+  "sku": "LC-DK-001",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Enhance Naturals 1 in. x 6 in. x 16 ft. Rocky Harbor Grooved Edge Composite Deck Board",
+  "model": "RH010616E2G01",
+  "productUrl": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Composite-Deck-Board-RH010616E2G01/310569119",
+  "sourceImage": "https://images.thdstatic.com/productImages/05a031e3-4a2e-468b-b00a-fc10eab43c85/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-64_1000.jpg",
+  "file": "photos/decking/lc-dk-001.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-002",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Enhance Naturals 1 in. x 6 in. x 20 ft. Toasted Sand Square Edge Composite Deck Board",
+  "model": "TS010620E2S01",
+  "productUrl": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-20-ft-Toasted-Sand-Square-Edge-Composite-Deck-Board-TS010620E2S01/325097795",
+  "sourceImage": "https://images.thdstatic.com/productImages/2b084b51-bdf0-4b87-af5b-2ae83cbb0cdb/svn/toasted-sand-trex-composite-decking-boards-ts010620e2s01-64_1000.jpg",
+  "file": "photos/decking/lc-dk-002.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-003",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Select 1 in. x 6 in. x 16 ft. Pebble Grey Grooved Edge Composite Deck Board",
+  "model": "PG010616SG01",
+  "productUrl": "https://www.homedepot.com/p/Trex-Select-1-in-x-6-in-x-16-ft-Pebble-Grey-Grooved-Edge-Composite-Deck-Board-PG010616SG01/206802130",
+  "sourceImage": "https://images.thdstatic.com/productImages/7a9083b2-d9cc-4834-92cb-b545afa7a21d/svn/gray-trex-composite-decking-boards-pg010616sg01-64_1000.jpg",
+  "file": "photos/decking/lc-dk-003.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-004",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Transcend 1 in. x 6 in. x 20 ft. Tiki Torch Grooved Edge Composite Deck Board",
+  "model": "TT010620TG01",
+  "productUrl": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-20-ft-Tiki-Torch-Grooved-Edge-Composite-Deck-Board-TT010620TG01/206777885",
+  "sourceImage": "https://images.thdstatic.com/productImages/7e6619ae-7038-419f-abd0-b1cd0753f3a2/svn/tiki-torch-brown-trex-composite-decking-boards-tt010620tg01-64_1000.jpg",
+  "file": "photos/decking/lc-dk-004.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-005",
+  "brand": "Trex",
+  "supplier": "The Home Depot",
+  "productName": "Transcend Lineage 1 in. x 6 in. x 12 ft. Jasper Square Edge Composite Decking Board",
+  "model": "JA010612TLS01",
+  "productUrl": "https://www.homedepot.com/p/Trex-Transcend-Lineage-1-in-x-6-in-x-12-ft-Jasper-Square-Edge-Composite-Decking-Board-JA010612TLS01/337546474",
+  "sourceImage": "https://images.thdstatic.com/productImages/b5c4bcf3-da2e-5e7d-b51e-edfa715f3472/svn/jasper-trex-composite-decking-boards-ja010612tls01-64_1000.jpg",
+  "file": "photos/decking/lc-dk-005.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-006",
+  "brand": "Fiberon",
+  "supplier": "The Home Depot",
+  "productName": "ArmorGuard 1 in. x 6 in. x 12 ft. Coastal Gray Grooved Edge Capped Composite Deck Board",
+  "model": "BRDAGG CSTG 12",
+  "productUrl": "https://www.homedepot.com/p/Fiberon-ArmorGuard-1-in-x-6-in-x-12-ft-Coastal-Gray-Grooved-Edge-Capped-Composite-Deck-Board-BRDAGG-CSTG-12/324794505",
+  "sourceImage": "https://images.thdstatic.com/productImages/01d05adf-5fa2-43e7-88ad-b8c788dc0907/svn/coastal-gray-fiberon-composite-decking-boards-brdagg-cstg-12-64_1000.jpg",
+  "file": "photos/decking/lc-dk-006.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-007",
+  "brand": "Fiberon",
+  "supplier": "The Home Depot",
+  "productName": "ArmorGuard Pro FR 20 ft. Honey Brown Sqaure Edge Composite Decking Board",
+  "model": "19648",
+  "productUrl": "https://www.homedepot.com/p/Fiberon-ArmorGuard-Pro-FR-20-ft-Honey-Brown-Sqaure-Edge-Composite-Decking-Board-19648/342652558",
+  "sourceImage": "https://images.thdstatic.com/productImages/c2e08c15-dd94-5ec0-ae4d-1178571edf80/svn/honey-brown-fiberon-composite-decking-boards-19648-64_1000.jpg",
+  "file": "photos/decking/lc-dk-007.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-008",
+  "brand": "Fiberon",
+  "supplier": "The Home Depot",
+  "productName": "1x6-16' Fiberon Sanctuary Composite Deck Board-Moringa Grooved Edge (Actual Size:. 93\" x 5.4\") BRDSANG MARINGA 16",
+  "model": "BRDSANG MORINGA 16",
+  "productUrl": "https://www.homedepot.com/p/Fiberon-1x6-16-Fiberon-Sanctuary-Composite-Deck-Board-Moringa-Grooved-Edge-Actual-Size-93-x-5-4-BRDSANG-MARINGA-16-BRDSANG-MORINGA-16/313027564",
+  "sourceImage": "https://images.thdstatic.com/productImages/fd8a668b-96d7-4f16-bbb2-710f85f40bd0/svn/moringa-fiberon-composite-decking-boards-brdsang-moringa-16-64_1000.jpg",
+  "file": "photos/decking/lc-dk-008.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-009",
+  "brand": "Veranda",
+  "supplier": "The Home Depot",
+  "productName": "1 in. x 6 in. x 16 ft. Stone Gray Grooved Edge Capped Composite Deck Board",
+  "model": "BRDVCDG G 16",
+  "productUrl": "https://www.homedepot.com/p/Veranda-1-in-x-6-in-x-16-ft-Stone-Gray-Grooved-Edge-Capped-Composite-Deck-Board-BRDVCDG-G-16/324920739",
+  "sourceImage": "https://images.thdstatic.com/productImages/b9bc251d-26d2-4cc1-ba2f-ca7a9e458cda/svn/stone-gray-veranda-composite-decking-boards-brdvcdg-g-16-64_1000.jpg",
+  "file": "photos/decking/lc-dk-009.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-010",
+  "brand": "Veranda",
+  "supplier": "The Home Depot",
+  "productName": "1 in. x 6 in. x 12 ft. Stone Gray Square Edge Capped Composite Deck Board",
+  "model": "BRDVCD G 12",
+  "productUrl": "https://www.homedepot.com/p/Veranda-1-in-x-6-in-x-12-ft-Stone-Gray-Square-Edge-Capped-Composite-Deck-Board-BRDVCD-G-12/324920736",
+  "sourceImage": "https://images.thdstatic.com/productImages/0cb87154-695f-40cc-8439-0307269c4241/svn/stone-gray-veranda-composite-decking-boards-brdvcd-g-12-64_1000.jpg",
+  "file": "photos/decking/lc-dk-010.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ },
+ {
+  "sku": "LC-DK-011",
+  "brand": "NewTechWood",
+  "supplier": "The Home Depot",
+  "productName": "Bell Series 0.88 in. x 5.5 in. x 16 ft. Grooved Brazilian IPE Composite Deck Board",
+  "model": "US53-16-IP",
+  "productUrl": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Brazilian-IPE-Composite-Deck-Board-US53-16-IP/332222367",
+  "sourceImage": "https://images.thdstatic.com/productImages/d658232f-ed73-43e9-b843-128ecdd85592/svn/brazillian-ipe-newtechwood-composite-decking-boards-us53-16-ip-64_1000.jpg",
+  "file": "photos/decking/lc-dk-011.png",
+  "processing": "cutout: rembg isnet-general-use + edge flood fill, fit 1000px box on transparent 1200x1200"
+ }
+]
