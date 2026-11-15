@@ -327,12 +327,12 @@
   "style": "Raised Panel",
   "color": "Chestnut Chocolate",
   "price30Base": 337.34,
-  "rendered": false,
+  "rendered": true,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__chestnut-chocolate.png",
   "width": 375,
   "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Chestnut_Chocolate_Door_Sample.jpg",
+  "source": "Cabinet On Demand door photo; drawer front built from the same door's photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__chestnut-chocolate.png"
  },
  {
@@ -341,12 +341,12 @@
   "style": "Raised Panel",
   "color": "Coffee Glaze",
   "price30Base": 362.64,
-  "rendered": false,
+  "rendered": true,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__coffee-glaze.png",
   "width": 375,
   "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/coffee_glaze_door_sample.jpg",
+  "source": "Cabinet On Demand door photo; drawer front built from the same door's photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__coffee-glaze.png"
  },
  {
@@ -355,12 +355,12 @@
   "style": "Raised Panel",
   "color": "Maple Cherry",
   "price30Base": 430.1,
-  "rendered": false,
+  "rendered": true,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__maple-cherry.png",
   "width": 375,
   "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/mapel_cherry_door_sample.jpg",
+  "source": "Cabinet On Demand door photo; drawer front built from the same door's photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__maple-cherry.png"
  },
  {
@@ -369,12 +369,12 @@
   "style": "Raised Panel",
   "color": "Antique White",
   "price30Base": 480.7,
-  "rendered": false,
+  "rendered": true,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__antique-white.png",
   "width": 375,
   "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Antique_White_Door_Sample.jpg",
+  "source": "Cabinet On Demand door photo; drawer front built from the same door's photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-raised__antique-white.png"
  },
  {
@@ -568,9 +568,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-shaker__white-shaker.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/white_shaker_door_sample.jpg",
+  "width": 750,
+  "height": 1200,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Santa-Monica-White-Shaker-1-scaled.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-shaker__white-shaker.png"
  },
  {
@@ -582,9 +582,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-sm-shaker__beech-espresso.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Beech_Espresso_door_Sample.jpg",
+  "width": 750,
+  "height": 1200,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Santa-Monica-Beech-Espresso-Shaker-scaled.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-sm-shaker__beech-espresso.png"
  },
  {
@@ -929,12 +929,12 @@
   "style": "Shaker",
   "color": "Honey Shaker",
   "price30Base": 466.18,
-  "rendered": false,
+  "rendered": true,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-shaker__honey-shaker.png",
   "width": 375,
   "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/honey_shaker_door_sample_450x450.jpg",
+  "source": "Cabinet On Demand door photo; drawer front built from the same door's photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-shaker__honey-shaker.png"
  },
  {
@@ -946,9 +946,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-shaker__espresso-shaker.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Espresso-Shaker-La-Jolla-Door-Sample-450x450.jpg",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Espresso_Shaker_Square_Cabinet_Doors_LJ_1.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-shaker__espresso-shaker.png"
  },
  {
@@ -960,9 +960,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-arch__cherry-arch.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Cherry-Arch-La-Jolla-Door-Sample-450x450.jpg",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Cherry_Arch_Cabinet_Doors_LJ1_1.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-arch__cherry-arch.png"
  },
  {
@@ -974,9 +974,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__classic-white.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Classic-White-Lajolla-Door-Sample-450x450-1.jpg",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Classic_White_Square_Cabinet_Doors_LJ_1.png",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__classic-white.png"
  },
  {
@@ -988,9 +988,9 @@
   "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__dark-cherry.png",
-  "width": 375,
-  "height": 600,
-  "source": "https://www.cabinetondemand.com/wp-content/uploads/2019/02/Dark-Cherry-La-Jolla-Door-Sample-450x450-1.jpg",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2024/06/Dark_Cherry_Cabinet_Doors_LJ_1.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__dark-cherry.png"
  },
  {
@@ -999,12 +999,12 @@
   "style": "Raised Panel",
   "color": "Ginger Square",
   "price30Base": 466.18,
-  "rendered": true,
+  "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__ginger-square.png",
-  "width": 375,
-  "height": 600,
-  "source": "Rendered color preview built from this style's real door photo",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Ginger_Square_Cabinet_Doors_LJ_1.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__ginger-square.png"
  },
  {
@@ -1013,12 +1013,12 @@
   "style": "Raised Panel",
   "color": "Coffee Square",
   "price30Base": 466.18,
-  "rendered": true,
+  "rendered": false,
   "note": null,
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__coffee-square.png",
-  "width": 375,
-  "height": 600,
-  "source": "Rendered color preview built from this style's real door photo",
+  "width": 675,
+  "height": 1080,
+  "source": "https://www.cabinetondemand.com/wp-content/uploads/2023/05/Coffee_Square_Cabinet_Doors_LJ1_1.jpg",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-raised__coffee-square.png"
  },
  {
@@ -1032,7 +1032,7 @@
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-rope__pecan-rope.png",
   "width": 375,
   "height": 600,
-  "source": "Rendered color preview built from this style's real door photo",
+  "source": "Rendered color preview with drawer front, built from this style's real door photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-rope__pecan-rope.png"
  },
  {
@@ -1046,7 +1046,7 @@
   "file": "photos/kitchen-cabinets/cabinet-on-demand/cod-lj-rope__mocha-rope.png",
   "width": 375,
   "height": 600,
-  "source": "Rendered color preview built from this style's real door photo",
+  "source": "Rendered color preview with drawer front, built from this style's real door photo",
   "rawUrl": "https://raw.githubusercontent.com/lockecorporation/locke-repository-images/main/photos/kitchen-cabinets/cabinet-on-demand/cod-lj-rope__mocha-rope.png"
  },
  {
