@@ -1,0 +1,59 @@
+name: Back up site images
+
+# Keeps a copy of every image the Locke Incorporated Wix site uses, so the site
+# can move off Wix without losing them. See backup/REPORT.md for the latest results.
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_new_gb:
+        description: "Don't save if the new images would add more than this many GB"
+        default: "1.5"
+  schedule:
+    - cron: "17 10 * * 1" # Mondays, 2:17 AM Pacific
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backup-images
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      # Optional: add a read-only token for lockecorporation/locke-construction as the
+      # SITE_REPO_TOKEN secret, and each run will pick up new images from the site code.
+      HAS_SITE_TOKEN: ${{ secrets.SITE_REPO_TOKEN != '' }}
+    steps:
+      - name: Check out this repo (without downloading the existing photos)
+        uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            backup
+            .github
+
+      - name: Check out the site code (if a token is set)
+        if: env.HAS_SITE_TOKEN == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: lockecorporation/locke-construction
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: .site
+          sparse-checkout: src
+
+      - name: Back up images and check supplier links
+        env:
+          SITE_REPO_DIR: ${{ env.HAS_SITE_TOKEN == 'true' && '.site' || '' }}
+          MAX_NEW_GB: ${{ inputs.max_new_gb || '1.5' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 backup/backup_images.py --max-new-gb "$MAX_NEW_GB" --commit
+
+      - name: Show the report
+        if: always()
+        run: cat backup/REPORT.md >> "$GITHUB_STEP_SUMMARY" || true
