@@ -1,6 +1,6 @@
 # Image backup report
 
-Last run: 2026-11-16T09:17:37Z
+Last run: 2026-11-16T09:28:45Z
 
 ## Wix images used by the site
 
@@ -10,14 +10,14 @@ Last run: 2026-11-16T09:17:37Z
   - Saved to backup/wix/: 3206
 - Could not download: 0
 - Over GitHub's 100 MB file limit: 0
-- New this run: 3206 files, 730 MB
+- New this run: 0 files, 0 MB
 
 ## Supplier images loaded straight from other sites
 
-- Checked: 419
-- Working: 414
-- Broken (404/410): 5
-- Server refused the check (may still work for visitors): 0
-- Other errors: 0
+- Checked: 11869
+- Working: 11829
+- Broken (404/410): 37
+- Server refused the check (may still work for visitors): 1
+- Other errors: 2
 
 Details: `wix-manifest.csv` maps every Wix image to its copy here; `supplier-image-links.csv` lists each supplier link's status.
