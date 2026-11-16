@@ -47,7 +47,7 @@ WIX_ORIGINAL = "https://static.wixstatic.com/media/{}"
 
 WIX_ID_RE = re.compile(r"[0-9a-z]{6}_[0-9a-f]{32}(?:~mv2)?(?:_d_[0-9_s]+)?\.(?:jpg|jpeg|png|webp)\b")
 SUPPLIER_RE = re.compile(r"https?://[^\"' )`<>]+\.(?:jpg|jpeg|png|webp|gif|avif)(?:\?[^\"' )`<>]*)?")
-SUPPLIER_SKIP = re.compile(r"wixstatic|usrfiles|githubusercontent|github\.com|\$\{")
+SUPPLIER_SKIP = re.compile(r"wixstatic|usrfiles|githubusercontent|github\.com|\$\{|\*")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 BATCH_BYTES = 400 * 1024 * 1024  # keep each push well under GitHub's limits
@@ -87,7 +87,31 @@ def scan_site_code(site_dir):
             ids.update(m.group(0) for m in WIX_ID_RE.finditer(text))
             urls.update(u for u in (m.group(0) for m in SUPPLIER_RE.finditer(text))
                         if not SUPPLIER_SKIP.search(u))
+            urls.update(u for u in decode_gallery(text) if not SUPPLIER_SKIP.search(u))
     return ids, urls
+
+
+GALLERY_HOSTS_RE = re.compile(r"export const HOSTS\s*=\s*\[(.*?)\];", re.S)
+GALLERY_ENTRY_RE = re.compile(r'"(\d+):([^"]+)"')
+
+
+def decode_gallery(text):
+    """Supplier gallery files store photos as "n:path" with n indexing HOSTS
+    (a host containing "*" is a template the path fills). Rebuild the links."""
+    m = GALLERY_HOSTS_RE.search(text)
+    if not m:
+        return set()
+    hosts = re.findall(r'"([^"]*)"', m.group(1))
+    out = set()
+    for n, path in GALLERY_ENTRY_RE.findall(text[m.end():]):
+        n = int(n)
+        if n >= len(hosts):
+            continue
+        host = hosts[n]
+        url = (host.replace("*", path) if "*" in host else host + path).split("#")[0]
+        if re.match(r"^https://[^\s\"'<>*]+$", url):
+            out.add(url)
+    return out
 
 
 def repo_blobs():
@@ -276,7 +300,7 @@ def main():
 
     # 5. Supplier links: check only (these are other companies' images).
     supplier_rows = []
-    with cf.ThreadPoolExecutor(max_workers=8) as pool:
+    with cf.ThreadPoolExecutor(max_workers=12) as pool:
         for url, (code, status) in zip(sorted(supplier_urls),
                                        pool.map(check_supplier_link, sorted(supplier_urls))):
             supplier_rows.append({"url": url, "status": status, "http_code": code,
