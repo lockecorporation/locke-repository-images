@@ -1,6 +1,6 @@
 # Image backup report
 
-Last run: 2026-11-16T09:28:45Z
+Last run: 2026-11-16T20:35:36Z
 
 ## Wix images used by the site
 
@@ -15,9 +15,9 @@ Last run: 2026-11-16T09:28:45Z
 ## Supplier images loaded straight from other sites
 
 - Checked: 11869
-- Working: 11829
-- Broken (404/410): 37
+- Working: 11828
+- Broken (404/410): 40
 - Server refused the check (may still work for visitors): 1
-- Other errors: 2
+- Other errors: 0
 
 Details: `wix-manifest.csv` maps every Wix image to its copy here; `supplier-image-links.csv` lists each supplier link's status.
