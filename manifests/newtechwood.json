@@ -882,5 +882,515 @@
     "source_url": "https://www.newtechwood.com/pdf/NTW-FULL_CATALOG.pdf",
     "photo_method": "2048x2048 JPEG front elevation on the blue-gray railing mat (the deck step's railing drawing), 36 in. high: composite post, top and bottom rails in the color (texture from NewTechWood's Magellan board in the same color), black post cap and skirt, 3/4 in. black aluminum balusters 4-1/2 in. on center, as catalog pages 21-22",
     "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/UH46-TK-installed-USA.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-uh46-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/09/Siding-UH46-TK-V-USA-Nov-2021-1002-scaled.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US09-IP-installed-USA.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us09-ip"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/09/Siding-US09-IPH-USA-July-2022-1010-scaled.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-ASN-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-asn"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-ASN-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-ASN-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-asn"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-ASN-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-AT-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-at"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-AT-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-AT-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-at"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-AT-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-CE-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ce"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-CE-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-CE-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ce"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-CE-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-EB-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-eb"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-EB-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-EB-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-eb"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-EB-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-IP-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ip"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-IP-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-IP-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ip"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-IP-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SI-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-si"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-SI-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SI-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-si"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-SI-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SSG-outside-corner.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ssg"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-16-SSG-2K-C3-US46-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SSG-trim-joint.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-ssg"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-16-SSG-2K-C5-US82-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SW-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-sw"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-SW-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-SW-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-sw"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-SW-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-TK-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-TK-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-TK-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-TK-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-WN-house-closeup.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-wn"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-WN-D2-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US135-WN-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us135-wn"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/US135-H1-WN-D1-medium.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/US86-TK-wall.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us86-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/09/US86-H2-TK-D1-竖装-scaled.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-dji_0496.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)",
+      "US135 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2025/11/DJI_0496.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-dsc08784.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)",
+      "US135 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2025/11/DSC08784.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-004.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)",
+      "US135 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2025/11/f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-004.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-015.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)",
+      "US135 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2025/11/f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-015.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-028.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)",
+      "US135 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2025/11/f5b3733c-d8ae-451f-bbe7-39ec2bd779ae-028.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-us09-mexico-1.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/4-Mexico.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/all-weather-us09-mexico-2.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US09 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/42-Meixco.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/board-and-batten-1.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US86 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/07/Board-and-Batten-1.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/board-and-batten-2.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US86 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/07/Board-and-Batten-2.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/board-and-batten-3.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US86 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/07/Board-and-Batten-3.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/board-and-batten-siding-exterior.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "US86 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/08/board-and-batten-siding-exterior.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/catalog-UH118-TK.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-uh118-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/pdf/NTW-FULL_CATALOG.pdf#page=6",
+    "photo_method": "cut from the catalog page 6 photo grid; captioned \"NOIR Norwegian Siding UH118, Peruvian Teak (TK)\"",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/catalog-UH46-IP.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-uh46-ip"
+    ],
+    "source_url": "https://www.newtechwood.com/pdf/NTW-FULL_CATALOG.pdf#page=6",
+    "photo_method": "cut from the catalog page 6 photo grid; captioned \"Norwegian Siding UH46, Brazilian Ipe (IP)\"",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/catalog-UH68-TK.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-uh68-tk"
+    ],
+    "source_url": "https://www.newtechwood.com/pdf/NTW-FULL_CATALOG.pdf#page=6",
+    "photo_method": "cut from the catalog page 6 photo grid; captioned \"Shadowline Siding UH68, Peruvian Teak (TK)\"",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/catalog-US09-CE.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "ntw-us09-ce"
+    ],
+    "source_url": "https://www.newtechwood.com/pdf/NTW-FULL_CATALOG.pdf#page=6",
+    "photo_method": "cut from the catalog page 6 photo grid; captioned \"All Weather Siding US09, Japanese Cedar (CE)\"",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/european-china.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH46 (every color)",
+      "UH58 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2021/07/TIM图片20181116160821-China.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/european-double-gable.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH46 (every color)",
+      "UH58 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2023/06/Finished-double-gable-right-5.22.23.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/european-patio.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH46 (every color)",
+      "UH58 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/12/New_Tech_Wood_Promos_by_Fotility-04916-1.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/european-showroom.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH46 (every color)",
+      "UH58 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/05/1_a-16.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/european-uh58-starbucks-korea.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH58 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2023/01/Starbucks_Gimhae_UH58_3-Korea.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/noir-modern-home.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH118 (every color)",
+      "UH119 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/08/noir-siding-modern-home.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-chevron-australia.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/10/122160473_811845413014544_4822614694931225930_o-Australia.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-house.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/10/NewTechWood_UltraShield_Cladding_674.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-italy-1.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/10/DCco-Enoplastic-12-Italy.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-italy-2.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/10/TIM-20181107160605Italy.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-karrinyup-australia.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2022/10/072-UDW-Karrinyup-1-low-res-Australia.jpg",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/siding-gallery/shadowline-modern-home.jpg",
+    "product": "NewTechWood siding",
+    "used_for": [
+      "UH68 (every color)"
+    ],
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/08/shadowline-siding-modern-home.webp",
+    "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
+    "collected": "2026-11-16"
   }
 ]
