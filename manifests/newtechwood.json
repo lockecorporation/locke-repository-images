@@ -1392,5 +1392,527 @@
     "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/08/shadowline-siding-modern-home.webp",
     "photo_method": "NewTechWood's own photo, unchanged except JPEG and at most 2000 px (gallery photo)",
     "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-haz-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-haz",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-HAZ-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-haz",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-HAZ-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-HAZ-Gallery-D1.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-haz",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-HAZ-Gallery-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-bis-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-bis",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-BIS-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-bis",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-BIS-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-BIS-Gallery-D1.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-bis",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-BIS-Gallery-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-oak-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-oak",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-OAK-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-oak",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-OAK-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-OAK-Gallery-D1.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-oak",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-OAK-Gallery-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-mis-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-mis",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-MIS-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-mis",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-MIS-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-MIS-Gallery-D1.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-mis",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-MIS-Gallery-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-hic-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-hic",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-HIC-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-hic",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-HIC-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-HIC-Gallery-D1.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-hic",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-HIC-Gallery-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-basic-ash-horizontal.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-ash",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's flat floor photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-ASH-S.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-ash",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-ASH-S.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-55-ASH-Gallery-D2.jpg",
+    "product": "Everlux Basic",
+    "color": "everlux-basic-ash",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-55-ASH-Gallery-D2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-basic-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-ccd-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ccd",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CCD-1.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ccd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CCD-1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CCD-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ccd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CCD-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CCD-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ccd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CCD-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-cgy-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-cgy",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CGY.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-cgy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CGY.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CGY-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-cgy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CGY-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-CGY-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-cgy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-CGY-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-egy-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-egy",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-EGY.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-egy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-EGY.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-EGY-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-egy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-EGY-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-EGY-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-egy",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-EGY-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-gbr-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-gbr",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-GBR.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-gbr",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-GBR.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-GBR-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-gbr",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-GBR-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-GBR-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-gbr",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-GBR-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-mtu-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-mtu",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-MTU.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-mtu",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-MTU.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-MTU-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-mtu",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-MTU-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-MTU-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-mtu",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-MTU-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-select-ssd-horizontal.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ssd",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: the plank face from NewTechWood's render laid as a floor swatch (photos/newtechwood/lvp), turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-SSD.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ssd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-SSD.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-SSD-2.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ssd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-SSD-2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-7-SSD-3.jpg",
+    "product": "Everlux Select",
+    "color": "everlux-select-ssd",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-7-SSD-3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-select-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-adb-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-adb",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-ADB-A3.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-adb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-ADB-A3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-ABD-Business-Scenes-D1.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-adb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-ABD-Business-Scenes-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-crg-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-crg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-CRG.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-crg",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-CRG.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-CRG-D2.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-crg",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-CRG-D2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-gig-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-gig",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-GIG-A3.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-gig",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-GIG-A3.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-GIG-Business-Scenes-D1.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-gig",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-GIG-Business-Scenes-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-krb-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-krb",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-KRB.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-krb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-KRB.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-KRB-Lifestyle-Scene-D1.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-krb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-KRB-Lifestyle-Scene-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-spb-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-spb",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-SPB.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-spb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-SPB.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-SPB-Business-Scenes-D2.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-spb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-SPB-Business-Scenes-D2.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-horizontal/everlux-premium-twb-horizontal.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-twb",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "1000x1000 card: NewTechWood's laid-floor (installation) photo of this color, turned a quarter turn so the planks run left to right like the LifeProof cards",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-TWB.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-twb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-TWB.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
+  },
+  {
+    "file": "photos/newtechwood/lvp-gallery/SPC-8-TWB-Lifestyle-Scene-D1.jpg",
+    "product": "Everlux Premium",
+    "color": "everlux-premium-twb",
+    "source_url": "https://www.newtechwood.com/wp-content/uploads/2026/04/SPC-8-TWB-Lifestyle-Scene-D1.jpg",
+    "source_page": "https://www.newtechwood.com/product/everlux-premium-vinyl-plank-flooring-sample/",
+    "photo_method": "NewTechWood's own photo of this color (its product page), unchanged except JPEG (gallery photo)",
+    "collected": "2026-11-16"
   }
 ]
